@@ -15,6 +15,8 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 ## Activity 2: Intro to Repl.it & Python3
 
+In the second activity for this week, we introduces variables and write our first program.
+
 * Challenge: Sign up for CodeAnywhere and create first Python program \(introduce self\)
 * Understand what a variable is and how to create one
 * Understand basic data types such as numbers and strings
@@ -23,7 +25,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 # Week 2:
 
-This week we will learn logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.
+This week we will learn logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.  We'll introduce our adventure game and learn how to code challenges that will help to play the game.
 
 ## Activity 1: Logic Game/Flow control
 
