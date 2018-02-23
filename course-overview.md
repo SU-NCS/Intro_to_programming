@@ -23,7 +23,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 # Week 2:
 
-This week we will learn logic in order to form conditional tests.  We'll expand on logic to create loop which will run a set of instructions repeatedly until a logical condition is met. 
+This week we will learn logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.
 
 ## Activity 1: Logic Game/Flow control
 
