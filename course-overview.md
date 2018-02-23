@@ -53,9 +53,9 @@ This week we'll install python locally on our computers and learn how to get inf
 
 ## Activity 2:  Read File, Compute, Write File
 
-
-
 # Week 4:
+
+
 
 ## Activity 1: Objects
 
