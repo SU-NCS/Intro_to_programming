@@ -41,6 +41,8 @@ We'll do exercises in which we write code that uses the comparison and logical o
 
 ## Activity 2: Functions
 
+
+
 # Week 3:
 
 This week we'll install python locally on our computers and learn how to get information about the computer in our program space.  We'll also learn how read files, process data and write data out to files.  These activities help to understand computer I/O and CPU usage.  The ability to save data will allow us to create data driven applications.
