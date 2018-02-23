@@ -41,7 +41,9 @@ We'll do exercises in which we write code that uses the comparison and logical o
 
 ## Activity 2: Functions
 
+Functions help to organize code and prevent duplicating code through the program.  A function is a named chunk of code that can be called from another section of the program.  It can define parameters which are variable that will be passed to it when called. Functions can also return values.  
 
+We'll do exercises in which write and call functions with parameters and return values.  For example we can write a function that takes two numbers, adds them together and returns the sum.  We'll also incoporate functions into the code we write for the Challenge.
 
 # Week 3:
 
