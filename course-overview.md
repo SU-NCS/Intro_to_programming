@@ -15,7 +15,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 ## Activity 2: Intro to Repl.it & Python3
 
-In the second activity for this week, we introduces variables and write our first program.
+In the second activity for this week, we introduce variables and write our first program.
 
 * Challenge: Sign up for CodeAnywhere and create first Python program \(introduce self\)
 * Understand what a variable is and how to create one
@@ -25,13 +25,25 @@ In the second activity for this week, we introduces variables and write our firs
 
 # Week 2:
 
-This week we will learn logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.  We'll introduce our adventure game and learn how to code challenges that will help to play the game.
+This week we will learn how to program with logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.  We'll introduce our adventure game and learn how to code challenges that will help to play the game.
+
+For our adventure game we need to code Challenges.  Challenges are presented to the Player by a Creature in an Episode.  The Challenge is a question and if the Player answers it correctly he or she can advance to the next Episode.  Along the way the Player can get Treasures and put them into a Knapsack.  If the Player makes it through all Episodes they win the game.
+
+In the Activities this week, we write programs that can be run as Challenges inside the game.
 
 ## Activity 1: Logic Game/Flow control
+
+In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program which depends on the values in variables. These operators rely on the idea of the boolean type, in which there are only two value: TRUE and FALSE.  Comparison operators can compare the values of two variables with respect to equality \(==, !=, &lt;=, &gt;=, &lt;, &gt;\) and return a boolean value.  Logical operators \(AND, OR, and NOT\) are used to compare boolean values.
+
+We'll use Comparison and Logical operators with the "for" loop and the "while" loop to run instructions multiple times.  The operators will help the code decide when to start and stop a loop.
+
+We'll do exercises in which we write code that uses the comparison and logical operators as well as the loops. We'll also see how the game framework uses the loops to control the flow of the game.  We'll also learn to write Challenges that can be associated with an Episode in the game.
 
 ## Activity 2: Functions
 
 # Week 3:
+
+This week we'll install python locally on our computers and learn how to get information about the computer in our program space.  We'll also learn how read files, process data and write data out to files.  These activities help to understand computer I/O and CPU usage.  The ability to save data will allow us to create data driven applications.
 
 ## Activity 1: Objects
 
