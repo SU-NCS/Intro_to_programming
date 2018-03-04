@@ -24,11 +24,11 @@ You can right click on the Default Connection and then choose "Create File".  Yo
 
 ### Useful Editing Keystrokes for Windows
 
-These keystrokes work on any text file in Windows.  
+These keystrokes work on any text file in Windows.
 
 Select all text on a page: **CTRL-A**
 
-**Copy to buffer: Select text using mouse or track pad and click **CTRL-C
+Copy to buffer: Select text using mouse or track pad and click** CTRL-C**
 
 Paste from buffer: **CTRL-V**
 
@@ -39,8 +39,6 @@ Go to end of line: **END**
 Go to beginning of file:** CTRL-HOME**
 
 Go to end of file: **CTRL-END**
-
-
 
 ### Excercises:
 
