@@ -4,7 +4,7 @@
 
 This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it. We also how to setup Python on CodeAnywhere.
 
-## Activity 1: What's a program?
+### Activity 1: What's a program?
 
 This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
 
@@ -12,16 +12,35 @@ This week we take a high level view of programming. We also introduce Python, wh
 * Give your instructions to another group
 * Act out instructions & generalize
 * Discussion—groups explain what they did.
+* Introduce the concepts of sequencing, acting on conditional, looping, and I/O used as applied to everyday activities
 
-## Activity 2: Intro to Repl.it & Python3
+### Activity 2: Intro to Code Anywhere, Writing Code & Python3
 
 In the second activity for this week, we introduce variables and write our first program.
 
-* Challenge: Sign up for CodeAnywhere and create first Python program \(introduce self\)
+* Challenge: Sign up for CodeAnywhere and create first Python program
+* Become familiar with Code Anywhere environment
+* Learn copy/paste keystrokes
+* Run python from the Code Anywhere Console
+* Create a file that prints to the console and run it in the Console
+
+### Activity 3: Introduce the Adventure Game and add a Challenge
+
+In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
+
+## Session 2: Variables and Types, Console I/O
+
+### Activity 1: Write a program to introduce yourself
+
 * Understand what a variable is and how to create one
 * Understand basic data types such as numbers and strings
 * Learn basic syntax print, variables, operators, string & integrate, import
 * Create a program to introduce yourself: "Hello my name is \_\_\_\_\_"
+
+### Activity 2: Write a Challenge for the Adventure Game using I/O
+
+* Write a challenge that uses math to add, subtract, multiply or divide
+* Write a challenge that asks a question and tests the value of the answer
 
 # Week 2:
 
@@ -30,6 +49,8 @@ This week we will learn how to program with logic in order to form conditional t
 For our adventure game we need to code Challenges.  Challenges are presented to the Player by a Creature in an Episode.  The Challenge is a question and if the Player answers it correctly he or she can advance to the next Episode.  Along the way the Player can get Treasures and put them into a Knapsack.  If the Player makes it through all Episodes they win the game.
 
 In the Activities this week, we write programs that can be run as Challenges inside the game.
+
+
 
 ## Activity 1: Logic Game/Flow control
 
@@ -54,8 +75,6 @@ This week we'll install python locally on our computers and learn how to get inf
 ## Activity 2:  Read File, Compute, Write File
 
 # Week 4:
-
-
 
 ## Activity 1: Objects
 
