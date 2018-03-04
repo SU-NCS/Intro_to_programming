@@ -1,4 +1,4 @@
-# Week 1:
+# Week 1
 
 ## Session 1: What's a program? What is Python?
 
@@ -42,7 +42,7 @@ In the final activity for the week, we introduce the Adventure Game framework an
 * Write a challenge that uses math to add, subtract, multiply or divide
 * Write a challenge that asks a question and tests the value of the answer
 
-# Week 2:
+# Week 2
 
 This week we will learn how to program with logic in order to form conditional tests.  We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met.  We'll introduce our adventure game and learn how to code challenges that will help to play the game.
 
@@ -80,7 +80,7 @@ Functions help to organize code and prevent duplicating code through the program
 
 We'll do exercises in which write and call functions with parameters and return values.  For example we can write a function that takes two numbers, adds them together and returns the sum.  We'll also incoporate functions into the code we write for the Challenge.
 
-# Week 3:
+# Week 3
 
 This week we'll install python locally on our computers and learn how to get information about the computer in our program space.  We'll also learn how read files, process data and write data out to files.  These activities help to understand computer I/O and CPU usage.  The ability to save data will allow us to create data driven applications.
 
@@ -88,7 +88,7 @@ This week we'll install python locally on our computers and learn how to get inf
 
 ## Activity 2:  Read File, Compute, Write File
 
-# Week 4:
+# Week 4
 
 ## Activity 1: Objects
 
