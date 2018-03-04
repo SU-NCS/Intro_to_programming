@@ -4,11 +4,7 @@ The Adventure Game is made up of Modules.  There can be many Challenge modules a
 
 ![](/assets/Adventure Game Modules.png)
 
-
-
 The flow of the game is showing in the diagram below:
 
-
-
-
+![](/assets/Game Flow.png)
 
