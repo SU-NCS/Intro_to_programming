@@ -62,11 +62,13 @@ We'll do exercises in which we write code that uses the comparison and logical o
 
 ### Activity 2: Write a Challenge that uses conditional tests
 
-In this Challenge we'll be able to test if the user responds correctly and provide feedback. 
+In this Challenge we'll be able to test if the user responds correctly and provide feedback.
 
 ## Session 2: Logic: Looping
 
-### 
+### Activity 1: Demo how to create a guessing game Challenge that uses Looping
+
+
 
 ## Activity 2: Functions
 
