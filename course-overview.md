@@ -60,6 +60,10 @@ We'll do exercises in which we write code that uses the comparison and logical o
 
 ### Activity 1: Demo How Game uses Logic and Sequencing to Control the Flow of the Program
 
+* Identify sections of the Adventure Game framework that use conditional tests
+* Show tests for equality with different types
+* Show tests for inequality with different types
+
 ### Activity 2: Write a Challenge that uses conditional tests
 
 In this Challenge we'll be able to test if the user responds correctly and provide feedback.
@@ -68,7 +72,7 @@ In this Challenge we'll be able to test if the user responds correctly and provi
 
 ### Activity 1: Demo how to create a guessing game Challenge that uses Looping
 
-
+Identify sections of the Adventure Game framework that loop.  Show how the loop is intiated, what keeps it going and how it is terminated.
 
 ## Activity 2: Functions
 
