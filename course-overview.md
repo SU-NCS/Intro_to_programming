@@ -12,7 +12,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 * Give your instructions to another group
 * Act out instructions & generalize
 * Discussion—groups explain what they did.
-* Introduce the concepts of sequencing, acting on conditional, looping, and I/O used as applied to everyday activities
+* Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
 
 ### Activity 2: Intro to Code Anywhere, Writing Code & Python3
 
