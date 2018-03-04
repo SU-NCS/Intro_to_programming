@@ -18,9 +18,15 @@ We communicate with the operating system by typing commands into the console. To
 
 ![](/assets/open-console.JPG)
 
+### Creating files in the Code Anywhere file System
+
+You can right click on the Default Connection and then choose "Create File".  You'll be prompted to enter a name.  Enter "test.py".  The "py" extension is what makes the operating system recognize this as a Python script.
+
+
+
 ### Useful Editing Keystrokes for Windows
 
-### Excercises:
+### Excersizes:
 
 
 
