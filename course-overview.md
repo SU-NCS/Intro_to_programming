@@ -36,6 +36,7 @@ In the final activity for the week, we introduce the Adventure Game framework an
 * Understand basic data types such as numbers and strings
 * Learn basic syntax print, variables, operators, string & integrate, import
 * Create a program to introduce yourself: "Hello my name is \_\_\_\_\_"
+* int, float,double, char, string, list, dict
 
 ### Activity 2: Write a Challenge for the Adventure Game using I/O
 
