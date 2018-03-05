@@ -42,5 +42,41 @@ Go to end of file: **CTRL-END**
 
 ### Excercises:
 
+Output to Screen: Getting familiar with the print statement
 
+Open the SSH Terminal by right clicking on the Default project and clicking on **SSH Terminal.**
+
+The SSH Terminal is sometime called the Console and this is where Screen output goes when we execute a program from the command line that uses the **Print** statement.
+
+### Command Line
+
+At the Command Line, which is sometimes referred to as a CLI or Command Line Interface, type **python** to enter the interactive Python interpreter mode.  In this interactive mode, Python will immediately process your command and return output. When you get the interpreter prompt \(**&gt;&gt;&gt;**\) type the following and notice what happens.
+
+`print ("hi")`
+
+Replace \_\_\_\_ with your name in the following
+
+`print ("hi ____")   `
+
+What is the affect of the **\n**
+
+`print ("hi \n  My name is ___")`
+
+What is the effect of separating our output with commas?
+
+`print ("hi","\n", "My name is ____")`
+
+Is the computer really adding 1 and 1 below?
+
+`print ("1 + 1 = 2")`
+
+
+
+
+
+
+
+Go to the test.py file your created.
+
+Enter
 
