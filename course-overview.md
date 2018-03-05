@@ -84,11 +84,31 @@ We'll do exercises in which write and call functions with parameters and return 
 
 This week we'll install python locally on our computers and learn how to get information about the computer in our program space.  We'll also learn how read files, process data and write data out to files.  These activities help to understand computer I/O and CPU usage.  The ability to save data will allow us to create data driven applications.
 
-## Activity 1: Move off the cloud and look at Computer Platform
+## Session 1: Set up Python locally
 
-## Activity 2:  Read File, Compute, Write File
+### Activity 1: Move off the cloud and look at Computer Platform
 
-# Week 4
+### Activity 2: Intro to Github and Download from Github, Run the Game locally
+
+### Activity 3: Code to look at local Platform, Network and build Challenge
+
+## Session 2:  Read File, Compute, Write File, Scope, RegEx, Working with Text
+
+### Activity 1: Read and Write and Logs
+
+Logs
+
+Searching for strings, Counting occurrences
+
+open\(\)/close\(\) vs with\(\)
+
+## Activity 3: Challenge
+
+Open files to decipher what creature is saying - player would have to choose the right key file
+
+Function to encrypt the creature introduction
+
+## Week 4
 
 ## Activity 1: Objects
 
