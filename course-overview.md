@@ -92,6 +92,8 @@ This week we'll install python locally on our computers and learn how to get inf
 
 ### Activity 3: Code to look at local Platform, Network and build Challenge
 
+ipconfig test or ?  32bit or 64 bit? hard drive size ?
+
 ## Session 2:  Read File, Compute, Write File, Scope, RegEx, Working with Text
 
 ### Activity 1: Read and Write and Logs
@@ -111,6 +113,8 @@ Function to encrypt the creature introduction
 ## Week 4
 
 ## Activity 1: Objects
+
+JSON
 
 ## Activity 2: Library
 
