@@ -4,7 +4,7 @@
 
 ### Excercises: Write a program on paper that ....
 
-## Activity 2: Code Anywhere
+## Activity 2: Code Anywhere and First Program
 
 Sign up for a free account on  Code Anywhere here: [https://www.codeanywhere.com/](https://www.codeanywhere.com/)
 
@@ -81,4 +81,8 @@ Go to the command line and run the code in the file by typing in **python test.p
 What happened when you execute the code from the file?
 
 What parts of the computer architecture are involved in running code from a file?
+
+## Activity 3: Introduce Adventure Game
+
+
 
