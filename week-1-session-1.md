@@ -56,7 +56,7 @@ At the Command Line, which is sometimes referred to as a CLI or Command Line Int
 
 Replace \_\_\_\_ with your name in the following
 
-`print ("hi ____")   `
+`print ("hi ____")`
 
 What is the affect of the **\n**
 
@@ -70,13 +70,13 @@ Is the computer really adding 1 and 1 below?
 
 `print ("1 + 1 = 2")`
 
+### Running Code in a file
 
+Go to \(or open by clicking on\) the **test.py** file your created.
 
+Copy and paste the code you wrote on the command line above into the test.py file. Save the file.
 
+Go to the command line and run the code in the file by typing in **python test.py**
 
-
-
-Go to the test.py file your created.
-
-Enter
+What happened when you execute the code from the file?
 
