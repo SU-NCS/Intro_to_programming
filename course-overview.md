@@ -74,7 +74,7 @@ In this Challenge we'll be able to test if the user responds correctly and provi
 
 Identify sections of the Adventure Game framework that loop.  Show how the loop is intiated, what keeps it going and how it is terminated.
 
-## Activity 2: Functions
+### Activity 2: Functions
 
 Functions help to organize code and prevent duplicating code through the program.  A function is a named chunk of code that can be called from another section of the program.  It can define parameters which are variable that will be passed to it when called. Functions can also return values.
 
