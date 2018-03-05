@@ -80,3 +80,5 @@ Go to the command line and run the code in the file by typing in **python test.p
 
 What happened when you execute the code from the file?
 
+What parts of the computer architecture are involved in running code from a file?
+
