@@ -2,7 +2,7 @@
 
 ## Activity 1:
 
-### Excercises:
+### Excercises: Write a program on paper that ....
 
 ## Activity 2: Code Anywhere
 
