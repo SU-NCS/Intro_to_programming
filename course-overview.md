@@ -68,7 +68,7 @@ We'll do exercises in which we write code that uses the comparison and logical o
 
 In this Challenge we'll be able to test if the user responds correctly and provide feedback.
 
-## Session 2: Logic: Looping
+## Session 2: Looping
 
 ### Activity 1: Demo how to create a guessing game Challenge that uses Looping
 
