@@ -6,21 +6,21 @@
 
 ## Activity 2: Code Anywhere and First Program
 
-Sign up for a free account on  Code Anywhere here: [https://www.codeanywhere.com/](https://www.codeanywhere.com/)
+Sign up for a free account on Code Anywhere here: [https://www.codeanywhere.com/](https://www.codeanywhere.com/)
 
 ### The Code Anywhere environment:
 
-Using the Connection Wizard create an environment named "Default" and search for "Python 3".  Click on the "Python 3/Ubuntu" stack to create your Python environemnt. It may take a few minutes to create.
+Using the Connection Wizard create an environment named "Default" and search for "Python 3". Click on the "Python 3/Ubuntu" stack to create your Python environemnt. It may take a few minutes to create.
 
-![](/assets/python3-ubuntu.JPG)
+![](.gitbook/assets/python3-ubuntu.JPG)
 
 We communicate with the operating system by typing commands into the console. To pen the console right click on the name "Default" and then click on "SSH Terminal":
 
-![](/assets/open-console.JPG)
+![](.gitbook/assets/open-console.JPG)
 
 ### Creating files in the Code Anywhere file System
 
-You can right click on the Default Connection and then choose "Create File".  You'll be prompted to enter a name.  Enter **test.py**.  The "py" extension is what makes the operating system recognize this as a Python script.
+You can right click on the Default Connection and then choose "Create File". You'll be prompted to enter a name. Enter **test.py**. The "py" extension is what makes the operating system recognize this as a Python script.
 
 ### Useful Editing Keystrokes for Windows
 
@@ -32,7 +32,7 @@ Copy to buffer: Select text using mouse or track pad and click** CTRL-C**
 
 Paste from buffer: **CTRL-V**
 
-Go to beginning of line:  **HOME**
+Go to beginning of line: **HOME**
 
 Go to end of line: **END**
 
@@ -50,7 +50,7 @@ The SSH Terminal is sometime called the Console and this is where Screen output 
 
 ### Command Line
 
-At the Command Line, which is sometimes referred to as a CLI or Command Line Interface, type **python** to enter the interactive Python interpreter mode.  In this interactive mode, Python will immediately process your command and return output. When you get the interpreter prompt \(**&gt;&gt;&gt;**\) type the following and notice what happens.
+At the Command Line, which is sometimes referred to as a CLI or Command Line Interface, type **python** to enter the interactive Python interpreter mode. In this interactive mode, Python will immediately process your command and return output. When you get the interpreter prompt \(**&gt;&gt;&gt;**\) type the following and notice what happens.
 
 `print ("hi")`
 
@@ -60,7 +60,7 @@ Replace \_\_\_\_ with your name in the following
 
 What is the affect of the **\n**
 
-`print ("hi \n  My name is ___")`
+`print ("hi \n My name is ___")`
 
 What is the effect of separating our output with commas?
 
@@ -83,6 +83,4 @@ What happened when you execute the code from the file?
 What parts of the computer architecture are involved in running code from a file?
 
 ## Activity 3: Introduce Adventure Game
-
-
 
