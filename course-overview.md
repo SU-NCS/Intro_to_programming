@@ -122,7 +122,7 @@ Exercise:
 
 #### Activity 2: Use Code to find out information about the Computer
 
-ipconfig test or ? 32bit or 64 bit? hard drive size ?
+Use the platform 
 
 ### Session 2:  Using Regex \(Regular Expressions\) and Working with Text
 
