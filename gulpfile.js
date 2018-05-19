@@ -1,4 +1,5 @@
 const gulp = require('gulp');
+const del = require('del');
 const gulpLoadPlugins = require('gulp-load-plugins');
 
 const $ = gulpLoadPlugins();
@@ -11,4 +12,15 @@ gulp.task('publish', () => {
       origin: 'origin',
       branch: 'gh-pages'
     }));
+});
+gulp.task('clean', function () {
+  return del(['docs/**', 'docs/.*', '!docs'], {
+    force: true
+  });
+});
+gulp.task('copy', function () {
+  gulp.src([
+      '_book/**/*'
+    ])
+    .pipe(gulp.dest('docs'));
 });
