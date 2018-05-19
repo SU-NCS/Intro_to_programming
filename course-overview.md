@@ -18,13 +18,16 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 #### Activity 2: Intro to Code Anywhere, Writing Code & Python3
 
-In the second activity for this week, we introduce variables and write our first program.
+In the second activity for this week, we setup a development environment,  introduce variables and write our first program.
 
-* Challenge: Sign up for CodeAnywhere and create first Python program
-* Become familiar with Code Anywhere environment
+* Introduce Basic Computer Architecture to help understand file creation and program execution
+* Download and **Install Python 3**
+* Download and **Install Visual Studio Code** \("**Code**"\)
+* Become familiar with the Code Editor and File Creation
+* Become familiar with the Code Terminal
 * Learn copy/paste keystrokes
-* Run python from the Code Anywhere Console
-* Create a file that prints to the console and run it in the Console
+* Run python from the Terminal
+* Create a file that prints to the Console and run it in the Terminal
 
 #### Activity 3: Introduce the Adventure Game and add a Challenge
 
@@ -75,7 +78,11 @@ In this Challenge we'll be able to test if the user responds correctly and provi
 
 #### Activity 1: Demo how to create a guessing game Challenge that uses Looping
 
-Identify sections of the Adventure Game framework that loop. Show how the loop is intiated, what keeps it going and how it is terminated.
+Identify sections of the Adventure Game framework that loop. Show 
+
+* how the loop is intiated 
+* what keeps it going 
+* how the loop is terminated
 
 #### Activity 2: Functions
 
@@ -89,9 +96,7 @@ This week we'll install python locally on our computers and learn how to get inf
 
 ### Session 1: Set up Python locally
 
-#### Activity 1: Move off the cloud and look at Computer Platform
-
-#### Activity 2: Intro to Github and Download from Github, Run the Game locally
+#### Activity 1: Intro to Github and Download from Github, Run the Game locally
 
 #### Activity 3: Code to look at local Platform, Network and build Challenge
 
@@ -120,4 +125,6 @@ Function to encrypt the creature introduction
 JSON
 
 ### Activity 2: Library
+
+
 
