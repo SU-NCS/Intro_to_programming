@@ -157,8 +157,6 @@ open\(\)/close\(\) vs with\(\)
 
 ##### Exercise:
 
-
-
 #### Activity 2: Challenge
 
 Open files to decipher what creature is saying - player would have to choose the right key file
@@ -171,11 +169,19 @@ Function to encrypt the creature introduction
 
 ---
 
-### Activity 1: Objects
+### Session 1: Creating and Using Objects
+
+### Activity 1: Demo how the Adventure Game uses Objects
 
 JSON
 
-### Activity 2: Library
+### Activity 2: Libraries
+
+We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
+
+##### Exercise:
+
+
 
 
 
