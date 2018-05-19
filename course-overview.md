@@ -78,7 +78,7 @@ In this Challenge we'll be able to test if the user responds correctly and provi
 
 #### Activity 1: Demo how to create a guessing game Challenge that uses Looping
 
-Identify sections of the Adventure Game framework that loop. Show 
+Identify sections of the Adventure Game framework that loop. Show
 
 * how the loop is intiated 
 * what keeps it going 
@@ -86,7 +86,7 @@ Identify sections of the Adventure Game framework that loop. Show
 
 #### Activity 2: Functions
 
-Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variable that will be passed to it when called. Functions can also return values.
+Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variables that will be passed to it when called. Functions can also return values.
 
 We'll do exercises in which write and call functions with parameters and return values. For example we can write a function that takes two numbers, adds them together and returns the sum. We'll also incoporate functions into the code we write for the Challenge.
 
