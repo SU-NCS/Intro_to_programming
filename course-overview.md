@@ -58,17 +58,19 @@ In the Activities this week, we write programs that can be run as Challenges ins
 
 ### Session 1: Logic: Conditional Tests
 
-In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program which depends on the values in variables. These operators rely on the idea of the boolean type, in which there are only two value: TRUE and FALSE. Comparison operators can compare the values of two variables with respect to equality \(==, !=, &lt;=, &gt;=, &lt;, &gt;\) and return a boolean value. Logical operators \(AND, OR, and NOT\) are used to compare boolean values.
+In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program.
 
-We'll use Comparison and Logical operators with the "for" loop and the "while" loop to run instructions multiple times. The operators will help the code decide when to start and stop a loop.
+We'll learn to create expressions with logical operators that can be tested with "**if**" to determine whether to proceed with further instructions.
 
-We'll do exercises in which we write code that uses the comparison and logical operators as well as the loops. We'll also see how the game framework uses the loops to control the flow of the game. We'll also learn to write Challenges that can be associated with an Episode in the game.
+We'll use Comparison and Logical operators  the  "**for**" loop and the "**while**" loop to run instructions multiple times. The operators will help the code decide when to start and stop a loop.
 
 #### Activity 1: Demo How Game uses Logic and Sequencing to Control the Flow of the Program
 
 * Identify sections of the Adventure Game framework that use conditional tests
+* Create a flow chart that shows the flow of a set of instructions based on logical tests
+* Use conditional operators \(&lt;, &gt;, ==, &lt;=, and &gt;=\) to create logical expressions
 * Show tests for equality with different types
-* Show tests for inequality with different types
+* Use "if" to determine program flow
 
 #### Activity 2: Write a Challenge that uses conditional tests
 
