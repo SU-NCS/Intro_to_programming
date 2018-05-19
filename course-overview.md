@@ -66,7 +66,10 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 #### Activity 1: Demo How Game uses Logic and Sequencing to Control the Flow of the Program
 
-* Identify sections of the Adventure Game framework that use conditional tests
+Identify sections of the Adventure Game framework that use conditional tests.
+
+##### Exercise:
+
 * Create a flow chart that shows the flow of a set of instructions based on logical tests
 * Use conditional operators \(&lt;, &gt;, ==, &lt;=, and &gt;=\) to create logical expressions
 * Show tests for equality with different types
@@ -86,25 +89,42 @@ Identify sections of the Adventure Game framework that loop. Show
 * what keeps it going 
 * how the loop is terminated
 
+##### Exercise:
+
+* Create a while loop
+* Create a for loop
+* Describe the difference between a for loop and a while loop
+
 #### Activity 2: Functions
 
 Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variables that will be passed to it when called. Functions can also return values.
 
 We'll do exercises in which write and call functions with parameters and return values. For example we can write a function that takes two numbers, adds them together and returns the sum. We'll also incoporate functions into the code we write for the Challenge.
 
+##### Exercise:
+
+* Create and call a function that has no parameters and returns nothing
+* Create and call a  function that has parameters and returns a value
+
 ## Week 3
 
 This week we'll install python locally on our computers and learn how to get information about the computer in our program space. We'll also learn how read files, process data and write data out to files. These activities help to understand computer I/O and CPU usage. The ability to save data will allow us to create data driven applications.
 
-### Session 1: Set up Python locally
+### Session 1: Read and Write Files
 
-#### Activity 1: Intro to Github and Download from Github, Run the Game locally
+#### Activity 1: Review Computer Architecture to Understand File I/O on the Computer
 
-#### Activity 3: Code to look at local Platform, Network and build Challenge
+Exercise:
+
+* Open a file and write text to it
+* Open a file, read text and output to Console
+* Write a function that takes a filename as a parameter and returns the contents of the file
+
+#### Activity 2: Use Code to find out information about the Computer
 
 ipconfig test or ? 32bit or 64 bit? hard drive size ?
 
-### Session 2:  Read File, Compute, Write File, Scope, RegEx, Working with Text
+### Session 2:  Using Regex \(Regular Expressions\) and Working with Text
 
 #### Activity 1: Read and Write and Logs
 
