@@ -145,19 +145,21 @@ Use the sys library to find out
 
 #### Activity 3: Using Regex \(Regular Expressions\) and Working with Text
 
-### Session 2: Read and Process Data
-
-#### Activity 1: Read and Write and Logs
-
 Logs
 
 Searching for strings, Counting occurrences
 
 open\(\)/close\(\) vs with\(\)
 
-#### Activity 2: Read Data from the Internet
+### Session 2: Read and Process Data
 
-### Activity 3: Challenge
+#### Activity 1: Read Data from the Internet
+
+##### Exercise:
+
+
+
+#### Activity 2: Challenge
 
 Open files to decipher what creature is saying - player would have to choose the right key file
 
