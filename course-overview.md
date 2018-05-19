@@ -50,7 +50,7 @@ In the final activity for the week, we introduce the Adventure Game framework an
 
 ## Week 2
 
-This week we will learn how to program with logic in order to form conditional tests. We'll expand on logic to create loop swhich will run a set of instructions repeatedly until a logical condition is met. We'll introduce our adventure game and learn how to code challenges that will help to play the game.
+This week we will learn how to program with logic in order to form conditional tests. We'll expand on logic to create loops which will run a set of instructions repeatedly until a logical condition is met. We'll introduce our adventure game and learn how to code challenges that will help to play the game.
 
 For our adventure game we need to code Challenges. Challenges are presented to the Player by a Creature in an Episode. The Challenge is a question and if the Player answers it correctly he or she can advance to the next Episode. Along the way the Player can get Treasures and put them into a Knapsack. If the Player makes it through all Episodes they win the game.
 
