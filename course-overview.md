@@ -108,7 +108,7 @@ We'll do exercises in which write and call functions with parameters and return 
 
 ## Week 3
 
-This week we'll install python locally on our computers and learn how to get information about the computer in our program space. We'll also learn how read files, process data and write data out to files. These activities help to understand computer I/O and CPU usage. The ability to save data will allow us to create data driven applications.
+This week use Python to get information about the computer. We'll also learn how read files, process data and write data out to files. These activities help to understand computer I/O and CPU usage. The ability to save data will allow us to create data driven applications.
 
 ### Session 1: Read and Write Files
 
@@ -130,6 +130,8 @@ Use the sys library to find out
 * windows version
 * PATH 
 * python version
+
+#### Activity 3: Using Regex \(Regular Expressions\) and Working with Text
 
 ### Session 2:  Using Regex \(Regular Expressions\) and Working with Text
 
