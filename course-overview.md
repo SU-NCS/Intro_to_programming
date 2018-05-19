@@ -133,7 +133,7 @@ Use the sys library to find out
 
 #### Activity 3: Using Regex \(Regular Expressions\) and Working with Text
 
-### Session 2:  Using Regex \(Regular Expressions\) and Working with Text
+### Session 2: Read and Process Data
 
 #### Activity 1: Read and Write and Logs
 
@@ -142,6 +142,10 @@ Logs
 Searching for strings, Counting occurrences
 
 open\(\)/close\(\) vs with\(\)
+
+#### Activity 2: Read Data from the Internet
+
+
 
 ### Activity 3: Challenge
 
