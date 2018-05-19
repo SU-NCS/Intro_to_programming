@@ -114,7 +114,7 @@ This week we'll install python locally on our computers and learn how to get inf
 
 #### Activity 1: Review Computer Architecture to Understand File I/O on the Computer
 
-Exercise:
+##### Exercise:
 
 * Open a file and write text to it
 * Open a file, read text and output to Console
@@ -122,7 +122,14 @@ Exercise:
 
 #### Activity 2: Use Code to find out information about the Computer
 
-Use the platform 
+##### Exercise:
+
+Use the sys library to find out
+
+* platform
+* windows version
+* PATH 
+* python version
 
 ### Session 2:  Using Regex \(Regular Expressions\) and Working with Text
 
