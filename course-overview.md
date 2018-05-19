@@ -157,6 +157,10 @@ open\(\)/close\(\) vs with\(\)
 
 ##### Exercise:
 
+* Use http://numbersapi.com to get information about number in JSON format
+* Get a number from the user
+* Return information about the number
+
 #### Activity 2: Challenge
 
 Open files to decipher what creature is saying - player would have to choose the right key file
@@ -171,7 +175,7 @@ Function to encrypt the creature introduction
 
 ### Session 1: Creating and Using Objects
 
-### Activity 1: Demo how the Adventure Game uses Objects
+#### Activity 1: Demo how the Adventure Game uses Objects
 
 JSON
 
@@ -180,8 +184,6 @@ JSON
 We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
 
 ##### Exercise:
-
-
 
 
 
