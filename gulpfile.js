@@ -1,6 +1,7 @@
 const gulp = require('gulp');
 const del = require('del');
 const exec = require('child_process').exec;
+var runSequence = require('run-sequence');
 const gulpLoadPlugins = require('gulp-load-plugins');
 
 const $ = gulpLoadPlugins();
@@ -31,4 +32,12 @@ gulp.task('build', function(){
     console.log(stdout);
     console.log(stderr);
   });
-})
+});
+
+
+gulp.task('build', function(callback) {
+  runSequence('build',
+              'clean',
+              'copy',
+              callback);
+});

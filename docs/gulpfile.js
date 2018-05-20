@@ -31,4 +31,8 @@ gulp.task('build', function(){
     console.log(stdout);
     console.log(stderr);
   });
-})
+});
+
+gulp.task('default', ['build', 'clean', 'copy'], function() {
+
+});
