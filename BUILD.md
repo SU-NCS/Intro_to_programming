@@ -22,8 +22,9 @@ Build HTML from Markdown
 You should see a _books folder with the html files    
 `gitbook build`  or `gitbook serve`  
 
-Publish the html to gh-pages       
-`gulp publish`  
+Build, Copy to Docs and Publish the html to gh-pages  
+Book is hosted on Github.io via Docs directory.        
+`gulp`  
 
 
 
