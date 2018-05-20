@@ -1,5 +1,6 @@
 const gulp = require('gulp');
 const del = require('del');
+const exec = require('child_process').exec;
 const gulpLoadPlugins = require('gulp-load-plugins');
 
 const $ = gulpLoadPlugins();
@@ -24,3 +25,10 @@ gulp.task('copy', function () {
     ])
     .pipe(gulp.dest('docs'));
 });
+
+gulp.task('build', function(){
+  exec('gitbook build', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+  });
+})

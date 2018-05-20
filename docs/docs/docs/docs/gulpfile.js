@@ -13,6 +13,14 @@ gulp.task('publish', () => {
       branch: 'gh-pages'
     }));
 });
-gulp.task('clean', function(){
-  return del.sync(['docs/**','!docs'], {force:true});
+gulp.task('clean', function () {
+  return del(['docs/**', 'docs/.*', '!docs'], {
+    force: true
+  });
+});
+gulp.task('copy', function () {
+  gulp.src([
+      '_book/**/*'
+    ])
+    .pipe(gulp.dest('docs'));
 });
