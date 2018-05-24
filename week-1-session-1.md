@@ -4,25 +4,19 @@
 
 ### Excercises: Write a program on paper that ....
 
-## Activity 2: Code Anywhere and First Program
+## Activity 2: Install Python 3 and Visual Studio Code
 
-Sign up for a free account on Code Anywhere here: [https://www.codeanywhere.com/](https://www.codeanywhere.com/)
+### Install Python 3 on Windows
 
-### The Code Anywhere environment:
 
-Using the Connection Wizard create an environment named "Default" and search for "Python 3". Click on the "Python 3/Ubuntu" stack to create your Python environemnt. It may take a few minutes to create.
 
-![](.gitbook/assets/python3-ubuntu.JPG)
+### Install Visual Studio Code on Windows
 
-We communicate with the operating system by typing commands into the console. To pen the console right click on the name "Default" and then click on "SSH Terminal":
+### 
 
-![](.gitbook/assets/open-console.JPG)
 
-### Creating files in the Code Anywhere file System
 
-You can right click on the Default Connection and then choose "Create File". You'll be prompted to enter a name. Enter **test.py**. The "py" extension is what makes the operating system recognize this as a Python script.
-
-### Useful Editing Keystrokes for Windows
+### Practice: Useful Editing Keystrokes for Windows
 
 These keystrokes work on any text file in Windows.
 
@@ -42,11 +36,15 @@ Go to end of file: **CTRL-END**
 
 ### Excercises:
 
-Output to Screen: Getting familiar with the print statement
+Set up a folder to work in: projects/session-1
 
-Open the SSH Terminal by right clicking on the Default project and clicking on **SSH Terminal.**
+Open Visual Studio Code
 
-The SSH Terminal is sometime called the Console and this is where Screen output goes when we execute a program from the command line that uses the **Print** statement.
+Open the folder projects/session-1
+
+Use CTRL-\`  \(the backward tick character is located to the left of the 1 key and above the tab key.  Use SHFT when striking this key\) to open the terminal.
+
+The Terminal is sometime called the Console and this is where Screen output goes when we execute a program from the command line that uses the **Print** statement.
 
 ### Command Line
 
