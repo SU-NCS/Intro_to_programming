@@ -20,7 +20,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 * Discussion—groups explain what they did.
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
 
-#### Activity 2: Intro to Code Anywhere, Writing Code & Python3
+#### Activity 2: Setup Dev Environment with Python 3 and Write Code
 
 In the second activity for this week, we setup a development environment,  introduce variables and write our first program.
 
@@ -157,7 +157,7 @@ open\(\)/close\(\) vs with\(\)
 
 ##### Exercise:
 
-* Use http://numbersapi.com to get information about number in JSON format
+* Use [http://numbersapi.com](http://numbersapi.com) to get information about number in JSON format
 * Get a number from the user
 * Return information about the number
 
