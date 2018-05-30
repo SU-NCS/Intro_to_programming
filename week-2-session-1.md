@@ -10,11 +10,37 @@
 
 #### Activity 2: Introduce How to Make Decisions inside a program
 
+Variables have a name and a value.  Decisions are made by testing the value of variables.  Variable can be named anything you want with a few exceptions because computers are picky.
+
 * Types:  String, Number, Boolean
 * Comparisons: ==, !=, &lt;=, &gt;=, &lt;, &gt;
 * Logical Operators: AND, OR, and NOT
 
-#### Activity 3: Demonstrate where the game makes decisions
+#### Activity 3: Demonstrate where the game makes decisions  
+
+#### Activity 4: Practice writing code that uses variables
+
+Create a variable with any name you want and assign a value.  Make variables for each of the types.  Notice strings have to have quotes around them.  
+
+num = 1
+
+str = "Hi"
+
+bool = TRUE
+
+#### Activity 5: Practice writing code that tests for values of different types  
+
+write code that tests if they are a certain value.
+
+Use the "if" instruction to set up a decision. Put the test in parentheses.   
+
+if \(num == 2\) print \("true"\)
+
+if \(num == 1\) print \("true"\)
+
+#### Activity 6: Write a program that asks for a name and then tests to see if it's your name
+
+print \("What's your name?"\)
 
 
 

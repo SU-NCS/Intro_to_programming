@@ -20,12 +20,9 @@ Review Session 1
 
 #### Activity 3: Write a Challenge for the Adventure Game using I/O
 
-* Write a challenge that uses math to add, subtract, multiply or divide
-* Write a challenge that asks a question and tests the value of the answer
+Write a challenge that uses math to add, subtract, multiply or divide
 
 #### Activity 4: Introduce the Adventure Game and add a Challenge
 
 In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
-
-
 
