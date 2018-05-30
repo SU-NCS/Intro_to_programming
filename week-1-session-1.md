@@ -4,17 +4,18 @@
 
 ### Excercises: Write a program on paper that ....
 
+* Starts a car
+* Organizes socks by color
+* Makes a sandwich
+* Writes your name in secret numeric code where A=1, B=2, C=3...
+
 ## Activity 2: Install Python 3 and Visual Studio Code
 
 ### Install Python 3 on Windows
 
-
-
 ### Install Visual Studio Code on Windows
 
 ### 
-
-
 
 ### Practice: Useful Editing Keystrokes for Windows
 
