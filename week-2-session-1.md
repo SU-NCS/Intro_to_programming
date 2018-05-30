@@ -2,23 +2,21 @@
 
 #### Activity 1: Review Week 1
 
-Parts of the computer
+* Parts of the computer
+* Visual Studio Code: IDE Interactive Development Environment
+* Python
+* Program
+* Programming a challenge
 
-Visual Studio Code: IDE Interactive Development Environment
+#### Activity 2: Introduce How to Make Decisions inside a program
 
-Python
+* Types:  String, Number, Boolean
+* Comparisons: ==, !=, &lt;=, &gt;=, &lt;, &gt;
+* Logical Operators: AND, OR, and NOT
 
-Program
+#### Activity 3: Demonstrate where the game makes decisions
 
-Programming a challenge
 
-#### Activity 1: Introduce How to Make Decisions inside a program
-
-Types:  String, Number, Boolean
-
-Comparisons: ==, !=, &lt;=, &gt;=, &lt;, &gt;
-
-Logical Operators: AND, OR, and NOT
 
 In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program which depends on the values in variables. These operators rely on the idea of the boolean type, in which there are only two value: TRUE and FALSE. Comparison operators can compare the values of two variables with respect to equality \(==, !=, &lt;=, &gt;=, &lt;, &gt;\) and return a boolean value. Logical operators \(AND, OR, and NOT\) are used to compare boolean values.
 
