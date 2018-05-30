@@ -21,11 +21,13 @@
 
 These keystrokes work on any text file in Windows.
 
+Open sample text file.
+
 Select all text on a page: **CTRL-A**
 
-Copy to buffer: Select text using mouse or track pad and click** CTRL-C**
+Copy to clipboard: Select text using mouse or track pad and click** CTRL-C**
 
-Paste from buffer: **CTRL-V**
+Paste from clipboard: **CTRL-V**
 
 Go to beginning of line: **HOME**
 
@@ -47,7 +49,7 @@ Use CTRL-\`  \(the backward tick character is located to the left of the 1 key a
 
 The Terminal is sometime called the Console and this is where Screen output goes when we execute a program from the command line that uses the **Print** statement.
 
-### Command Line
+### Run code on the Command Line
 
 At the Command Line, which is sometimes referred to as a CLI or Command Line Interface, type **python** to enter the interactive Python interpreter mode. In this interactive mode, Python will immediately process your command and return output. When you get the interpreter prompt \(**&gt;&gt;&gt;**\) type the following and notice what happens.
 
@@ -83,5 +85,9 @@ What parts of the computer architecture are involved in running code from a file
 
 ## Activity 3: Introduce Adventure Game
 
+Demonstrate how the games works.
 
+Install the game on your local computer.
+
+Run the game locally.
 

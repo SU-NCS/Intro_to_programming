@@ -33,10 +33,6 @@ In the second activity for this week, we setup a development environment,  intro
 * Run python from the Terminal
 * Create a file that prints to the Console and run it in the Terminal
 
-#### Activity 3: Introduce the Adventure Game and add a Challenge
-
-In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
-
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
 #### Activity 1: Write a program to introduce yourself
@@ -51,6 +47,10 @@ In the final activity for the week, we introduce the Adventure Game framework an
 
 * Write a challenge that uses math to add, subtract, multiply or divide
 * Write a challenge that asks a question and tests the value of the answer
+
+#### Activity 3: Introduce the Adventure Game and add a Challenge
+
+In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
 
 ---
 
