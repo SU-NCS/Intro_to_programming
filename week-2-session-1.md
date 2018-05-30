@@ -16,11 +16,11 @@ Variables have a name and a value.  Decisions are made by testing the value of v
 * Comparisons: ==, !=, &lt;=, &gt;=, &lt;, &gt;
 * Logical Operators: AND, OR, and NOT
 
-#### Activity 3: Demonstrate where the game makes decisions  
+#### Activity 3: Demonstrate where the game makes decisions
 
 #### Activity 4: Practice writing code that uses variables
 
-Create a variable with any name you want and assign a value.  Make variables for each of the types.  Notice strings have to have quotes around them.  
+Create a variable with any name you want and assign a value.  Make variables for each of the types.  Notice strings have to have quotes around them.
 
 num = 1
 
@@ -28,11 +28,11 @@ str = "Hi"
 
 bool = TRUE
 
-#### Activity 5: Practice writing code that tests for values of different types  
+#### Activity 5: Practice writing code that tests for values of different types
 
 write code that tests if they are a certain value.
 
-Use the "if" instruction to set up a decision. Put the test in parentheses.   
+Use the "if" instruction to set up a decision. Put the test in parentheses.
 
 if \(num == 2\) print \("true"\)
 
@@ -49,4 +49,10 @@ In the first activity for this week, we introduce the comparison and logcial ope
 We'll use Comparison and Logical operators with the "for" loop and the "while" loop to run instructions multiple times. The operators will help the code decide when to start and stop a loop.
 
 We'll do exercises in which we write code that uses the comparison and logical operators as well as the loops. We'll also see how the game framework uses the loops to control the flow of the game. We'll also learn to write Challenges that can be associated with an Episode in the game.
+
+#### Activity 7: Write a Challenge for the game
+
+Write a challenge that asks a question and tests the value of the answer
+
+
 
