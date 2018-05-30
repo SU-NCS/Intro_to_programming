@@ -36,8 +36,8 @@ gulp.task('build', function(){
 
 
 gulp.task('default', function(callback) {
-  runSequence('build',
-              'clean',
+  runSequence('clean',
+              'build',
               'copy',
               callback);
 });
