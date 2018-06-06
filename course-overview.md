@@ -87,7 +87,7 @@ Identify sections of the Adventure Game framework that use conditional tests.
 
 In this Challenge we'll be able to test if the user responds correctly and provide feedback.
 
-### Session 2: Looping
+### Session 2: Looping and Functions
 
 #### Activity 1: Demo how to create a guessing game Challenge that uses Looping
 

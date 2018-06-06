@@ -14,10 +14,7 @@
 
 **Flow charts are used when designing code**
 
-  
 ![](/assets/flow-chart-while.png)
-
-
 
 #### **Activity 3: Try writing loops**
 
@@ -29,8 +26,6 @@ while (count < 5):                    # test to decide if we should quite
    print ('The count is:', count)     # execute instruction
    count = count + 1                  # increment counter
 print ("Good bye!")                   # print good by when done with loop
-
-
 ```
 
 Break out of a while loop early
@@ -43,7 +38,6 @@ while (count < 5):                    # test to decide if we should quite
    if count == 3:
        break;
 print ("Good bye!")                   # print good by when done with loop
-
 ```
 
 An infinite while loop - it runs forever - it has nothing to stop it
@@ -61,7 +55,6 @@ for x in fruits:
  print(x)
 for x in range(5):
  print(x)
-
 ```
 
 Exercise:
@@ -83,16 +76,11 @@ We'll do exercises in which we write and call functions withparametersandreturnv
 **Exercise:**
 
 * Create and call a function that has no parameters and returns nothing
-
 * Create and call a function that has parameters and returns a value
-
 * Create a function that:
-
-* * accepts a number as a parameter
-
+  * accepts a number number as a parameter
   * uses the parameter to initialize a loop
-
-  * return the value of the number at the end of the loop  
+  * return the value of the number at the end of the loop
 
 **Activity 6: Write a Challenge for the game**
 
