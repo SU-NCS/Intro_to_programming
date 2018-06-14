@@ -1,4 +1,4 @@
-# Week 2: Session 2
+Week 2: Session 2
 
 _**Looping, Data Structures, and Functions**_
 
@@ -69,7 +69,7 @@ Exercise:
 
 * Describe the difference between a for loop and a while loop
 
-#### Activity 5: Python Data Structures:   
+#### Activity 5: Python Data Structures:
 
 ##### List: an ordered structure
 
