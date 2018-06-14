@@ -47,11 +47,21 @@ j = json.loads(str)
 print (j)
 ```
 
-#### Activity 4: Read JSON from a local File
+#### Activity 4: Write JSON to a local File
+
+```
+import json
+myfile = open("local.json","w")
+myfile.write(json.dumps({'name': 'Maria', 'age': 20, 'occupation': 'programmer'}))
+myfile.close()
+print (myfile.name, "is open?", myfile.closed)
+```
+
+#### Activity 5: Read JSON from a local File
 
 #### 
 
-#### Activity 5: Read JSON from the Internet
+#### Activity 6: Read JSON from the Internet
 
 #### 
 
