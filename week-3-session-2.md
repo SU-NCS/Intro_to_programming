@@ -57,13 +57,35 @@ myfile.close()
 print (myfile.name, "is open?", myfile.closed)
 ```
 
-#### Activity 5: Read JSON from a local File
+#### Activity 5: Read JSON from a local File 
 
-#### 
+This is another way to open a file and make variable out of the filename.
+
+```
+import json
+
+with open('local.json', 'r') as f:
+    dict = json.load(f)
+print(dict)
+```
 
 #### Activity 6: Read JSON from the Internet
 
-#### 
+We've got all the skills to read from the internet now.  We can get data from the numbers api and examine the various types using the **type **function.
+
+```
+import requests, json
+
+data = requests.get("http://numbersapi.com/19?json")
+dict = json.loads(data.content)
+print(dict)
+
+print ("The type of the object  returned from the internet is", type(data))
+print ("The type of the content returned from the internet is", type(data.content))
+print ("The type of the data that the json.loads command creates is ", type(dict))
+
+print("The interesting thing about 19 is: ", dict["text"])
+```
 
 
 
