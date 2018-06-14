@@ -1,5 +1,7 @@
 # Week 2: Session 2
 
+_**Looping and Functions**_
+
 #### **Activity 1: Demo how to create a guessing game Challenge that uses Looping**
 
 **Identify sections of the Adventure Game framework that loop. Show**
