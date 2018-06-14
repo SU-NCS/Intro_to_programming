@@ -1,4 +1,4 @@
- Session 2
+Session 2
 
 _**Looping, Data Structures, and Functions**_
 
