@@ -318,7 +318,56 @@
                                 
                                 <h1 id="week-3-session-2">Week 3: Session 2</h1>
 <p><em><strong>Internet API Read</strong></em></p>
-<p>The data format most used on the internet is called JSON (pronounced JASON).  It&apos;s an acronym for JavaScript Object Notation.  JSON looks kind of like a dictionary structure.  It is more strict and requires all strings use double quotes.Even if the</p>
+<p>The data format most used on the internet is called JSON (pronounced JASON).  It&apos;s an acronym for JavaScript Object Notation.  JSON looks kind of like a dictionary structure.  It is more strict and requires all strings use double quotes.</p>
+<p>An API is an &quot;Application Programming Interface&quot;.  It looks like a website and sometimes it can be pasted in the browser to pull back data like a web page.  We&apos;ll be working with the Numbers API.</p>
+<p>Excecise</p>
+<p>Copy and Paste this URL into a browser and see what you get back: <a href="http://numbersapi.com/19" target="_blank">http://numbersapi.com/19</a></p>
+<p>Try changing the number from 19 to some other number.  What does this API do?</p>
+<p>Copy and Paste this URL into a browser and see what you get back: <a href="http://numbersapi.com/19?json" target="_blank">http://numbersapi.com/19?json</a></p>
+<p>We added &quot;?json&quot; and what changed?  We&apos;ll add the ?json when we make a request to numbers api from python code.</p>
+<h4 id="activity-1-demostrate-where-json-is-used-in-the-game">Activity 1: Demostrate where JSON is used in the Game.</h4>
+<h4 id="activity-2-transform-a-dictionary-into-a-valid-json-string-using-dumps">Activity 2: Transform a Dictionary into a valid JSON string using <em><strong>dumps</strong></em></h4>
+<p>Is there a difference between the Dictionary and the JSON?</p>
+<pre><code>import json
+print(json.dumps({&apos;name&apos;: &apos;Maria&apos;, &apos;age&apos;: 20, &apos;occupation&apos;: &apos;programmer&apos;}))
+</code></pre><p>What happens if you try to use dumps with invalid JSON</p>
+<p>In Python <strong>None </strong>means nothing but it is not recognized by the Python dumps command. In JSON, the concept is nothing is specified by <strong>null</strong>.  What does the following code do?</p>
+<pre><code>import json
+print(json.dumps({&apos;name&apos;: &apos;Maria&apos;, &apos;age&apos;: 20, &apos;occupation&apos;: None}))
+</code></pre><h4 id="activity-3-transform-a-string-into-json-using-load-as-we-read-in-a-file">Activity 3: Transform a String into JSON using <em><strong>load as we read in a file</strong></em></h4>
+<p>What do you see when you run this?  What happens if you change &quot;programmer&quot; to <strong>null</strong>?</p>
+<pre><code>import json
+str = &apos;{&quot;name&quot;: &quot;Maria&quot;, &quot;age&quot;: 20, &quot;occupation&quot;: &quot;programmer&quot;}&apos;
+j = json.loads(str)
+print (j)
+</code></pre><h4 id="activity-4-write-json-to-a-local-file">Activity 4: Write JSON to a local File</h4>
+<pre><code>import json
+myfile = open(&quot;local.json&quot;,&quot;w&quot;)
+myfile.write(json.dumps({&apos;name&apos;: &apos;Maria&apos;, &apos;age&apos;: 20, &apos;occupation&apos;: &apos;programmer&apos;}))
+myfile.close()
+print (myfile.name, &quot;is open?&quot;, myfile.closed)
+</code></pre><h4 id="activity-5-read-json-from-a-local-file">Activity 5: Read JSON from a local File</h4>
+<p>This is another way to open a file and make variable out of the filename.</p>
+<pre><code>import json
+
+with open(&apos;local.json&apos;, &apos;r&apos;) as f:
+    dict = json.load(f)
+print(dict)
+</code></pre><h4 id="activity-6-read-json-from-the-internet">Activity 6: Read JSON from the Internet</h4>
+<p>We&apos;ve got all the skills to read from the internet now.  We can get data from the numbers api and examine the various types using the <strong>type </strong>function.</p>
+<pre><code>import requests, json
+
+data = requests.get(&quot;http://numbersapi.com/19?json&quot;)
+dict = json.loads(data.content)
+print(dict)
+
+print (&quot;The type of the object  returned from the internet is&quot;, type(data))
+print (&quot;The type of the content returned from the internet is&quot;, type(data.content))
+print (&quot;The type of the data that the json.loads command creates is &quot;, type(dict))
+
+print(&quot;The interesting thing about 19 is: &quot;, dict[&quot;text&quot;])
+</code></pre><p><strong>Excercise</strong>:</p>
+<p>Create a challenge where you ask the user to guess a number.  If they guess correctly call the numbers API and report back what is interesting about that number.</p>
 
                                 
                                 </section>
@@ -362,7 +411,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Week 3: Session 2","level":"1.10","depth":1,"next":{"title":"Week 4: Session 1","level":"1.11","depth":1,"path":"week-4-session-1.md","ref":"week-4-session-1.md","articles":[]},"previous":{"title":"Week 3: Session 1","level":"1.9","depth":1,"path":"week-3-session-1.md","ref":"week-3-session-1.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"week-3-session-2.md","mtime":"2018-06-14T22:41:28.481Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-06-14T22:41:39.812Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Week 3: Session 2","level":"1.10","depth":1,"next":{"title":"Week 4: Session 1","level":"1.11","depth":1,"path":"week-4-session-1.md","ref":"week-4-session-1.md","articles":[]},"previous":{"title":"Week 3: Session 1","level":"1.9","depth":1,"path":"week-3-session-1.md","ref":"week-3-session-1.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"week-3-session-2.md","mtime":"2018-06-14T23:31:30.139Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-06-14T23:31:40.017Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
