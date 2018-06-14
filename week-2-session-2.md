@@ -1,3 +1,11 @@
+for
+
+key, value
+
+in
+
+dict.items\(\): key, value in dict.items\(\):
+
 Session 2
 
 _**Looping, Data Structures, and Functions**_
