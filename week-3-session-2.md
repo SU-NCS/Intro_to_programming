@@ -18,9 +18,7 @@ We added "?json" and what changed?  We'll add the ?json when we make a request t
 
 #### Activity 1: Demostrate where JSON is used in the Game.
 
-
-
-Activity 2: Transform a Dictionary into a valid JSON string using **dumps**
+#### Activity 2: Transform a Dictionary into a valid JSON string using _**dumps**_
 
 Is there a difference between the Dictionary and the JSON?
 
@@ -31,34 +29,26 @@ print(json.dumps({'name': 'Maria', 'age': 20, 'occupation': 'programmer'}))
 
 What happens if you try to use dumps with invalid JSON
 
-In Python **None **means nothing but it is not recognized by the Python dumps command. In JSON, the concept is nothing is specified by **null**.  What does the following code do? 
+In Python **None **means nothing but it is not recognized by the Python dumps command. In JSON, the concept is nothing is specified by **null**.  What does the following code do?
 
 ```
 import json
 print(json.dumps({'name': 'Maria', 'age': 20, 'occupation': None}))
 ```
 
-Activity 3: Transform a String into JSON using **loads**
+#### Activity 3: Transform a String into JSON using _**load as we read in a file**_
 
 ```
 
 ```
 
+#### Activity 4: Read JSON from a local File
 
+#### 
 
+#### Activity 5: Read JSON from the Internet
 
-
-
-
-Activity 4: Read JSON from a local File
-
-
-
-Activity 5: Read JSON from the Internet
-
-
-
-
+#### 
 
 
 
