@@ -10,7 +10,7 @@ Review Console I/O
 
 ```
 str = input("Input your favorite color? ")
-print ("Outputting your favorite color: ",str) 
+print ("Outputting your favorite color: ",str)
 ```
 
 **First, Create a file by Writing to It**
@@ -48,6 +48,13 @@ Write a program that reads the file and prints the output to the console.
 What happens if you run the read file program before the write  file program?
 
 #### Activity 3: What is "os"? Operating System
+
+Test that a file exists
+
+```
+import os
+print("this file exists?",os.path.isfile("file-exists.py") )
+```
 
 **Renaming a file**
 
