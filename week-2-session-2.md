@@ -1,6 +1,6 @@
 # Week 2: Session 2
 
-_**Looping and Functions**_
+_**Looping, Data Structures, and Functions**_
 
 #### **Activity 1: Demo how to create a guessing game Challenge that uses Looping**
 
@@ -69,7 +69,48 @@ Exercise:
 
 * Describe the difference between a for loop and a while loop
 
-#### **Activity 5: Functions**
+#### Activity 5: Python Data Structures: List and  
+
+##### List: an ordered structure
+
+```
+animals = ['cat','dog','chicken','cow']
+for animal in animals:
+    print (animal, len(animal))
+```
+
+##### List: can be accessed by number and numbers start at 0
+
+What animal get's printed with this instruction? What do "square brackets" do?
+
+```
+print ("first animal", animals[0])
+```
+
+#### Dictionary: "key:value" 
+
+Data is created by enclosing in "curly braces" and accessed by "square brackets"
+
+```
+dict =  {'name': 'Maria', 'age': 20, 'occupation': 'programmer'}
+print (dict['name'], 'is a ', dict['age'], " year old ", dict["occupation"],".")
+```
+
+You can loop through all the values in a dictionary but you can't count on the order
+
+```
+
+```
+
+You can create a list of dictionary items
+
+```
+
+```
+
+
+
+#### **Activity 6: Functions**
 
 Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variables that will be passed to it when called. Functions can also return values.
 
