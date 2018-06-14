@@ -85,5 +85,13 @@ os.chdir("test")
 os.system("python ../file-write.py")
 ```
 
+#### Activity 4: Create a challenge that uses a file
+
+Create a file with a question.
+
+Read the file to get a question that you ask for the challenge.
+
+#### 
+
 
 
