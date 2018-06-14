@@ -69,7 +69,7 @@ Exercise:
 
 * Describe the difference between a for loop and a while loop
 
-#### Activity 5: Python Data Structures: List and  
+#### Activity 5: Python Data Structures:   
 
 ##### List: an ordered structure
 
@@ -87,7 +87,7 @@ What animal get's printed with this instruction? What do "square brackets" do?
 print ("first animal", animals[0])
 ```
 
-#### Dictionary: "key:value" 
+#### Dictionary: "key:value"
 
 Data is created by enclosing in "curly braces" and accessed by "square brackets"
 
@@ -107,8 +107,6 @@ You can create a list of dictionary items
 ```
 
 ```
-
-
 
 #### **Activity 6: Functions**
 
