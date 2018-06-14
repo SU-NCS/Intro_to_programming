@@ -57,7 +57,7 @@ myfile.close()
 print (myfile.name, "is open?", myfile.closed)
 ```
 
-#### Activity 5: Read JSON from a local File 
+#### Activity 5: Read JSON from a local File
 
 This is another way to open a file and make variable out of the filename.
 
@@ -87,5 +87,7 @@ print ("The type of the data that the json.loads command creates is ", type(dict
 print("The interesting thing about 19 is: ", dict["text"])
 ```
 
+**Excercise**:
 
+Create a challenge where you ask the user to guess a number.  If they guess correctly call the numbers API and report back what is interesting about that number.
 
