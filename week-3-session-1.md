@@ -2,6 +2,8 @@
 
 _**File I/O and the Operating System**_
 
+The computer's file system is made up of files and directories.  Directories may contain files.  Files contain data.
+
 #### Activity 1: Demostrate where file I/O is used in the Game.
 
 #### **Activity 2: What is I/O?  Input/Output**
@@ -49,10 +51,9 @@ What happens if you run the read file program before the write  file program?
 
 #### Activity 3: What is "os"? Operating System
 
-Test that a file exists
+##### Test that a file exists
 
 ```
-import os
 print("this file exists?",os.path.isfile("file-exists.py") )
 ```
 
@@ -70,6 +71,18 @@ os.rename( "myfile.txt", "test.txt" )
 ```
 import os
 os.remove("test.txt")
+```
+
+##### Working with Directories and Calling Programs from Code
+
+Make a directory and then go to it to make a file.  What does "../" mean?
+
+```
+import os
+
+os.mkdir("test")
+os.chdir("test")
+os.system("python ../file-write.py")
 ```
 
 
