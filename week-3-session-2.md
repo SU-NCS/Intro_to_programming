@@ -38,8 +38,13 @@ print(json.dumps({'name': 'Maria', 'age': 20, 'occupation': None}))
 
 #### Activity 3: Transform a String into JSON using _**load as we read in a file**_
 
-```
+What do you see when you run this?  What happens if you change "programmer" to **null**?
 
+```
+import json
+str = '{"name": "Maria", "age": 20, "occupation": "programmer"}'
+j = json.loads(str)
+print (j)
 ```
 
 #### Activity 4: Read JSON from a local File
