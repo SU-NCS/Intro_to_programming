@@ -33,5 +33,14 @@ print ("contents of ",myfile.name,": ",str)
 myfile.close()
 ```
 
+Renaming a file
+
+What is the import command doing?  What is "os"?
+
+```
+import os
+os.rename( "myfile.txt", "becky.txt" )
+```
+
 
 
