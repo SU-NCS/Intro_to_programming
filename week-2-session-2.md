@@ -107,13 +107,19 @@ print (dict['name'], 'is a ', dict['age'], " year old ", dict["occupation"],".")
 You can loop through all the values in a dictionary but you can't count on the order
 
 ```
-
+for key, value in dict.items():
+    print (key, value)
 ```
 
-You can create a list of dictionary items
+You can create a list of dictionary items,  Is it OK to use single quotes or double quotes when creating dictionaries?  
+
+Why do I need 2 "for" loops to do the following? What is the output?
 
 ```
-
+list = [{'one':1}, {"two":2}, {'three':3} ]
+for item in list:
+    for key, value in item.items():
+        print (key, value)
 ```
 
 #### **Activity 6: Functions**
