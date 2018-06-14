@@ -1,5 +1,7 @@
 # Week 2: Session 1
 
+_**Logical Operators and Expresssions**_
+
 #### Activity 1: Review Week 1
 
 * Parts of the computer
@@ -42,8 +44,6 @@ if \(num == 1\) print \("true"\)
 
 print \("What's your name?"\)
 
-
-
 In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program which depends on the values in variables. These operators rely on the idea of the boolean type, in which there are only two value: TRUE and FALSE. Comparison operators can compare the values of two variables with respect to equality \(==, !=, &lt;=, &gt;=, &lt;, &gt;\) and return a boolean value. Logical operators \(AND, OR, and NOT\) are used to compare boolean values.
 
 We'll use Comparison and Logical operators with the "for" loop and the "while" loop to run instructions multiple times. The operators will help the code decide when to start and stop a loop.
@@ -53,6 +53,4 @@ We'll do exercises in which we write code that uses the comparison and logical o
 #### Activity 7: Write a Challenge for the game
 
 Write a challenge that asks a question and tests the value of the answer
-
-
 

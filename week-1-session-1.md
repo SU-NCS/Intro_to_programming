@@ -1,6 +1,8 @@
 # Week 1: Session 1
 
-## Activity 1:
+_**Introduction and Setup**_
+
+## Activity 1: Write a program on paper
 
 ### Excercises: Write a program on paper that ....
 

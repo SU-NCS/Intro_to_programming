@@ -1,5 +1,7 @@
 # Week 1: Session 2
 
+_**Variable, Types, Console, and Sequencing**_
+
 #### Activity 1: Review
 
 Review Session 1
