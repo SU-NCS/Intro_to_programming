@@ -2,7 +2,7 @@
 
 _**File I/O**_
 
-#### **Activity 1: Demo how to create a guessing game Challenge that uses Looping**
+#### **Activity 1: **
 
 
 
