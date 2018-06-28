@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Classe, Objects and Modules**_
+_**Classes and Objects**_
 
 #### Activity 1: Review Week 3
 
