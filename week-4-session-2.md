@@ -16,7 +16,7 @@ Modules help us to organize code into a separate files. Using the import command
 
 Create a file \(name\_prompt.py\) that contains a function that asks you your name.
 
-Create a file \(use\__name\__prompt.py\) that import the first file and executes the function in it.
+Create a file \(use\_name\_prompt.py\) that import the first file and executes the function in it.
 
 #### Activity 3: Work on a challenge that incorporates all of the following
 
