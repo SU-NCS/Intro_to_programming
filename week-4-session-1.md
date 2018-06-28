@@ -93,12 +93,13 @@ class Car:
 
     def get_speed(self):
         return self.__current_speed
-
 ```
 
 #### Activity 6: Code for instantiating an Object from a Class
 
 First we write function \(main\) that instantiates the class to create a specific object.  Then we call the function \(main\(\)\) to execute it.
+
+**Exercise**
 
 Code a main function that gets an instance of the car class.  Only the start method is called in the code in main.
 
