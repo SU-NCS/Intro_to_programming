@@ -1,12 +1,4 @@
-for
-
-key, value
-
-in
-
-dict.items\(\): key, value in dict.items\(\):
-
-Session 2
+# Week 2: Session 1 {#week-3-session-1}
 
 _**Looping, Data Structures, and Functions**_
 
@@ -111,7 +103,7 @@ for key, value in dict.items():
     print (key, value)
 ```
 
-You can create a list of dictionary items,  Is it OK to use single quotes or double quotes when creating dictionaries?  
+You can create a list of dictionary items,  Is it OK to use single quotes or double quotes when creating dictionaries?
 
 Why do I need 2 "for" loops to do the following? What is the output?
 
