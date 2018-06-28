@@ -73,12 +73,12 @@ class Car:
         console.log("Moving in reverse")
 
     def set_speed(self, speed):
-        self.__current_speed = speed;
+        self.__current_speed = speed
         console.log("Moving at this speed now:",self.current_speed)
 
     def brake(self):
         if self.__current_speed > 0:
-          self.__current_speed = self.current_speed - 1;
+          self.__current_speed = self.current_speed - 1
 
     def park(self):
         console.log("Parking")
