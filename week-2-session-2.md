@@ -4,7 +4,7 @@ _**Looping, Data Structures, and Functions**_
 
 #### Activity 1: Review Week 2 Session 1
 
-* Variable
+* Variables
 * Decision making in a program
 * Logical operators
 * Logical expresssions
