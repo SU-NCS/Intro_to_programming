@@ -1,12 +1,21 @@
 # Week 3: Session 2
 
+#### Activity 1: Review Week 3  Session 1
+
+* Computer I/O
+* Reading and Writing files
+
+#### Activity 2: Demostrate where JSON is used in the Game.
+
+#### Activity 3: Introduction to JSON data format
+
 _**Internet API Read**_
 
 The data format most used on the internet is called JSON \(pronounced JASON\).  It's an acronym for JavaScript Object Notation.  JSON looks kind of like a dictionary structure.  It is more strict and requires all strings use double quotes.
 
 An API is an "Application Programming Interface".  It looks like a website and sometimes it can be pasted in the browser to pull back data like a web page.  We'll be working with the Numbers API.
 
-Excecise
+**Excecise**
 
 Copy and Paste this URL into a browser and see what you get back: [http://numbersapi.com/19](http://numbersapi.com/19)
 
@@ -16,9 +25,7 @@ Copy and Paste this URL into a browser and see what you get back: [http://number
 
 We added "?json" and what changed?  We'll add the ?json when we make a request to numbers api from python code.
 
-#### Activity 1: Demostrate where JSON is used in the Game.
-
-#### Activity 2: Transform a Dictionary into a valid JSON string using _**dumps**_
+#### Activity 4: Transform a Dictionary into a valid JSON string using _**dumps**_
 
 Is there a difference between the Dictionary and the JSON?
 
@@ -36,7 +43,7 @@ import json
 print(json.dumps({'name': 'Maria', 'age': 20, 'occupation': None}))
 ```
 
-#### Activity 3: Transform a String into JSON using _**load as we read in a file**_
+#### Activity 5: Transform a String into JSON using _**load as we read in a file**_
 
 What do you see when you run this?  What happens if you change "programmer" to **null**?
 
@@ -47,7 +54,7 @@ j = json.loads(str)
 print (j)
 ```
 
-#### Activity 4: Write JSON to a local File
+#### Activity 6: Write JSON to a local File
 
 ```
 import json
@@ -57,7 +64,7 @@ myfile.close()
 print (myfile.name, "is open?", myfile.closed)
 ```
 
-#### Activity 5: Read JSON from a local File
+#### Activity 7: Read JSON from a local File
 
 This is another way to open a file and make variable out of the filename.
 
@@ -69,7 +76,7 @@ with open('local.json', 'r') as f:
 print(dict)
 ```
 
-#### Activity 6: Read JSON from the Internet
+#### Activity 8: Read JSON from the Internet
 
 We've got all the skills to read from the internet now.  We can get data from the numbers api and examine the various types using the **type **function.
 
