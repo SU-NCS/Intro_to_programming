@@ -59,7 +59,6 @@ class Car:
         self.__color = year
         self.__max_speed = max_speed
         self.__current_speed = 0
-        start, stop, move forward, move in reverse, park
 
     def start(self):
         console.log("Car starting")
