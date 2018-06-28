@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Classe, Objects and Libraries**_
+_**Classe, Objects and Modules**_
 
 #### Activity 1: Review Week 3
 
@@ -122,9 +122,7 @@ def main():
 main()
 ```
 
-#### Activity 6: Libraries
+#### Activity 6: Modules
 
-Libraries allow us to import code.  This helps to organize code into a separate file and still access it from another file.
-
-
+Modules help us to organize code into a separate files. Using the import command we can access module code from another file.
 
