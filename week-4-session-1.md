@@ -48,7 +48,7 @@ Code a car object using Python language elements shown below
 
 **Exercise**:
 
-Get the car object code running and add a function to increase speed. Use the code below to start.
+Get the car object code running and add a function to accellerate \(increase speed\). Use the code below to start.
 
 ```
 class Car:
@@ -72,11 +72,11 @@ class Car:
 
     def move_reverse(self):
         console.log("Moving in reverse")
-    
+
     def set_speed(self, speed):
         self.__current_speed = speed;
         console.log("Moving at this speed now:",self.current_speed)
-    
+
     def brake(self):
         if self.__current_speed > 0:
           self.__current_speed = self.current_speed - 1;
@@ -91,6 +91,4 @@ class Car:
 #### Activity 6: Code for instantiating an Object from a Class
 
 Code a main function that gets an instance of the car class
-
-
 
