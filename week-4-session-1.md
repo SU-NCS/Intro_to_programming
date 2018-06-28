@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Libraries, Classes and Objects**_
+_**Classe, Objects and Libraries**_
 
 #### Activity 1: Review Week 3
 
@@ -14,9 +14,7 @@ Internet API's
 
 #### Activity 2: Demostrate where Objects and Libraries are used in the Game
 
-#### Activity 3: Libraries
-
-#### Activity 4: Intro to Classes and Objects
+#### Activity 3: Intro to Classes and Objects
 
 **Objects** are nouns and can be described by their parts, or characteristics \(adjectives\) and what they can do \(verbs\)
 
@@ -32,7 +30,7 @@ characteristics \(nouns and adjectives\): make, model, color, year, max speed
 
 what they can doe \(verbs\): start, stop, brake, move forward, move in reverse, park
 
-#### Activity 5: Code a car class
+#### Activity 4: Code a car class
 
 Code a car object using Python language elements shown below
 
@@ -95,7 +93,7 @@ class Car:
         return self.__current_speed
 ```
 
-#### Activity 6: Code for instantiating an Object from a Class
+#### Activity 5: Code for instantiating an Object from a Class
 
 First we write function \(main\) that instantiates the class to create a specific object.  Then we call the function \(main\(\)\) to execute it.
 
@@ -123,6 +121,10 @@ def main():
 # call main
 main()
 ```
+
+#### Activity 6: Libraries
+
+Libraries allow us to import code.  This helps to organize code into a separate file and still access it from another file.
 
 
 
