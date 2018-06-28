@@ -23,7 +23,6 @@ Create a file \(use\_name\_prompt.py\) that import the first file and executes t
 Here's an example of two files \(name\__prompt.py and use\_name\_prompt.py\) that are working together using the import command._
 
 ```
-
 # age_prompt.py
 def ask_age():
   age = input("Enter your age:")
@@ -40,13 +39,11 @@ print("Hello ",age," year old!")
 
 #### Activity 3: Work on a challenge that incorporates all of the following
 
-Flow chart
+* Flow chart
+* Decision making: variables, logic, looping
+* Input/Output: Console, File, Internet
+* Libraries
+* Objects
 
-Decision making: variables, logic, looping
 
-Input/Output: Console, File, Internet
-
-Libraries
-
-Objects
 
