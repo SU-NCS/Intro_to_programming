@@ -1,8 +1,15 @@
-# Week 2: Session 1 {#week-3-session-1}
+# Week 2: Session 2 {#week-3-session-1}
 
 _**Looping, Data Structures, and Functions**_
 
-#### **Activity 1: Demo how to create a guessing game Challenge that uses Looping**
+#### Activity 1: Review Week 2 Session 1
+
+* Variable
+* Decision making in a program
+* Logical operators
+* Logical expresssions
+
+#### **Activity 2: Demo how to create a guessing game Challenge that uses Looping**
 
 **Identify sections of the Adventure Game framework that loop. Show**
 
@@ -18,7 +25,7 @@ _**Looping, Data Structures, and Functions**_
 
 ![](/assets/flow-chart-while.png)
 
-#### **Activity 3: Try writing loops**
+#### **Activity 4: Try writing loops**
 
 Code sample for while loop
 

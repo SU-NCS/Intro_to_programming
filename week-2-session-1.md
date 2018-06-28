@@ -1,6 +1,6 @@
 # Week 2: Session 1
 
-_**Logical Operators and Expresssions**_
+**Variables,** _**Logical Operators and Expresssions**_
 
 #### Activity 1: Review Week 1
 
