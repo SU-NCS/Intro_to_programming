@@ -36,7 +36,9 @@ what they can doe \(verbs\): start, stop, brake, move forward, move in reverse, 
 
 Code a car object using Python language elements shown below
 
-> **class**     defines the name of the object template
+> **class**     This defines the name of the object template
+>
+> **self**        This is the variable that the object uses to refer to itself in code
 >
 > **def**        This is how you define a data or method
 >
@@ -46,5 +48,49 @@ Code a car object using Python language elements shown below
 
 **Exercise**:
 
-Get the car object code running and add a function to increase speed.  The user
+Get the car object code running and add a function to increase speed. Use the code below to start.
+
+```
+class Car:
+    def __init__(self, year, make, model, color, max_speed):
+        self.__year = year
+        self.__make = make
+        self.__model = year
+        self.__color = year
+        self.__max_speed = max_speed
+        self.__current_speed = 0
+        start, stop, move forward, move in reverse, park
+
+    def start(self):
+        console.log("Car starting")
+
+    def stop(self):
+        console.log("Car stopping")
+
+    def move_forward(self):
+        console.log("Moving forward")
+
+    def move_reverse(self):
+        console.log("Moving in reverse")
+    
+    def set_speed(self, speed):
+        self.__current_speed = speed;
+        console.log("Moving at this speed now:",self.current_speed)
+    
+    def brake(self):
+        if self.__current_speed > 0:
+          self.__current_speed = self.current_speed - 1;
+
+    def park(self):
+        console.log("Parking")
+
+    def get_speed(self):
+        return self.__speed
+```
+
+#### Activity 6: Code for instantiating an Object from a Class
+
+Code a main function that gets an instance of the car class
+
+
 
