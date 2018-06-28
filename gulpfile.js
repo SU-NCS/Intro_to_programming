@@ -22,7 +22,8 @@ gulp.task('clean', function () {
 });
 gulp.task('copy', function () {
   gulp.src([
-      '_book/**/*'
+      '_book/**/*',
+      './*.md'
     ])
     .pipe(gulp.dest('docs'));
 });
@@ -38,6 +39,5 @@ gulp.task('build', function(){
 gulp.task('default', function(callback) {
   runSequence('clean',
               'build',
-              'copy',
-              callback);
+              'copy');
 });

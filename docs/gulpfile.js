@@ -22,9 +22,12 @@ gulp.task('clean', function () {
 });
 gulp.task('copy', function () {
   gulp.src([
-      '_book/**/*'
+      '_book/**/*',
+      'README.md',
+      'SUMMARY.md'
     ])
     .pipe(gulp.dest('docs'));
+  gulp.src()
 });
 
 gulp.task('build', function(){
