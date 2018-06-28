@@ -51,43 +51,77 @@ Code a car object using Python language elements shown below
 Get the car object code running and add a function to accellerate \(increase speed\). Use the code below to start.
 
 ```
+# define Car template
 class Car:
     def __init__(self, year, make, model, color, max_speed):
         self.__year = year
         self.__make = make
         self.__model = year
-        self.__color = year
+        self.__color = color
         self.__max_speed = max_speed
         self.__current_speed = 0
+        print("You now have a car with these features:")
+        print("year: ", self.__year)
+        print("make: ", self.__make)
+        print("model: ", self.__model)
+        print("color: ", self.__color)
+        print("max_speed: ", self.__max_speed)
+        print("current speed: ", self.__current_speed)
 
     def start(self):
-        console.log("Car starting")
+        print('Car starting')
 
     def stop(self):
-        console.log("Car stopping")
+        print('Car stopping')
 
     def move_forward(self):
-        console.log("Moving forward")
+        print('Moving forward')
 
     def move_reverse(self):
-        console.log("Moving in reverse")
+        print('Moving in reverse')
 
     def set_speed(self, speed):
         self.__current_speed = speed
-        console.log("Moving at this speed now:",self.current_speed)
+        print('Moving at this speed now:', self.__current_speed)
 
     def brake(self):
         if self.__current_speed > 0:
-          self.__current_speed = self.current_speed - 1
+            self.__current_speed = self.__current_speed - 1
 
     def park(self):
-        console.log("Parking")
+        print('Parking')
 
     def get_speed(self):
-        return self.__speed
+        return self.__current_speed
+
 ```
 
 #### Activity 6: Code for instantiating an Object from a Class
 
-Code a main function that gets an instance of the car class
+First we write function \(main\) that instantiates the class to create a specific object.  Then we call the function \(main\(\)\) to execute it.
+
+Code a main function that gets an instance of the car class.  Only the start method is called in the code in main.
+
+```
+# function to instantiate the class
+def main():
+
+    year = input('Enter the car year: ')
+    color = input('Enter the car color: ')
+    make = input('Enter the car make: ')
+    model = input('Enter the car model: ')
+    max_speed = input('Enter the car\'s max speed:')
+
+# instantiate a car
+    mycar = Car(year, make, model, color, max_speed)
+
+ # call methods on car
+    mycar.start()
+
+
+# call main
+main()
+```
+
+
 
