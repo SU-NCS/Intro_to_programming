@@ -1,13 +1,24 @@
 # Week 4: Session 2
 
-_**Projects: Design and Implement a Complex Challenge**_
+_**Modules and Design and Implement a Complex Challenge**_
 
 #### Activity 1: Review Week 4 Session 1
 
+* Classes
 * Objects
-* Libraries
+* Instantiate an object
 
-#### Activity 2: Work on a challenge that incorporates all of the following
+#### Activity 1: Modules
+
+Modules help us to organize code into a separate files. Using the import command we can access module code from another file.
+
+**Exercise**
+
+Create a file \(name\_prompt.py\) that contains a function that asks you your name.
+
+Create a file \(use\__name\__prompt.py\) that import the first file and executes the function in it.
+
+#### Activity 3: Work on a challenge that incorporates all of the following
 
 Flow chart
 

@@ -122,7 +122,7 @@ def main():
 main()
 ```
 
-#### Activity 6: Modules
+#### 
 
-Modules help us to organize code into a separate files. Using the import command we can access module code from another file.
+
 
