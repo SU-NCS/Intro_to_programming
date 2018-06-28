@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Libraries and Objects**_
+_**Libraries, Classes and Objects**_
 
 #### Activity 1: Review Week 3
 
@@ -16,11 +16,13 @@ Internet API's
 
 #### Activity 3: Libraries
 
-#### Activity 4: Intro to Objects
+#### Activity 4: Intro to Classes and Objects
 
-Objects allow us to define code in the way we would define an object in real life.
+**Objects** are nouns and can be described by their parts, or characteristics \(adjectives\) and what they can do \(verbs\)
 
-Objects are nouns and can be described by their parts, or characteristics \(adjectives\) and what they can do \(verbs\)
+**Classes** allow us to define code in the way we would define an object in real life.
+
+
 
 The code is a template for the object, and when we want to use the object we get an **instance** of a specific object.
 
@@ -30,9 +32,27 @@ Let's define a car object
 
 characteristics \(nouns and adjectives\): make, model, color, year, max speed
 
-what they can doe \(verbs\): start, stop, move forward, move in reverse, park
+what they can doe \(verbs\): start, stop, brake, move forward, move in reverse, park
+
+
+
+#### Activity 5: Code a car object
+
+Code a car object using Python language elements shown below
+
+
+
+> class   defines the name of the object template
+>
+> def       This is how you define a data or method
+>
+> \_\__init_\_\_
+>
+> return
+
+
 
 **Exercise**:
 
-Code a car object
+Get the car object code running and add a function to increase speed.  The user 
 
