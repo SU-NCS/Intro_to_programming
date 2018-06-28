@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Objects and Libraries**_
+_**Libraries and Objects**_
 
 #### Activity 1: Review Week 3
 
@@ -14,9 +14,33 @@ Internet API's
 
 #### Activity 2: Demostrate where Objects and Libraries are used in the Game
 
-#### Activity 3: Objects
+#### Activity 3: Libraries
 
 
+
+
+
+#### Activity 4: Intro to Objects 
+
+Objects allow us to define code in the way we would define an object in real life.
+
+Nouns, adjectives and Verbs are all part of how we describe an object: it's parts, it's characteristics and what it can do.
+
+The code is a template for the object, and when we want to use the object we get an **instance** of a specific object.
+
+**Exercise**:
+
+Let's define a car object
+
+parts \(nouns\): model, manufacturer, tires, accellerator, transmission
+
+characteristics \(adjectives: color, year, max speed
+
+verbs: start, stop, move forward, move in reverse, park
+
+**Exercise**:
+
+Code a car object
 
 
 
