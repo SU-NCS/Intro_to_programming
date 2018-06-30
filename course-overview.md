@@ -8,18 +8,16 @@
 
 ### Session 1: What's a program? What is Python?
 
-This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it. We also how to setup Python on CodeAnywhere.
-
-#### Activity 1: What's a program?
-
-In this session we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
+This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it. 
 
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
 * Introduce the concepts of Input/Output and discuss local I/O with the **console**,  **files** and **remote** I/O via the Internet with API's
 
+#### Activity 1: What's a program?
+
 #### Activity 2: Setup Dev Environment for Python 3 and Write Code
 
-In the second activity for this week, we setup a development environment,  introduce variables and write our first program.
+---
 
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
