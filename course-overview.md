@@ -25,11 +25,11 @@ In the second activity for this week, we setup a development environment,  intro
 
 In this session we use variables and to gather information of different types form the console.  We also introduce the way in with sequencing of instructions creates the flow of the program.
 
-#### Activity 1: Write a program to introduce yourself
+#### Activity 1: Review
 
-#### Activity 2: Write a Challenge for the Adventure Game using Console I/O
+#### Activity 2: Write a program to introduce yourself
 
-#### Activity 3: Introduce the Adventure Game and add a Challenge
+#### Activity 3: Write a Program that works with numbers
 
 ---
 
