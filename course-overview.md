@@ -81,7 +81,7 @@ In this session we'll extend the use of conditionals to create loops.  Loops all
 
 #### **Activity 6: Functions**
 
-#### 
+#### **Activity 7: Write a Challenge for the Game that uses Looping and Functions**
 
 ---
 
