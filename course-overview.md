@@ -51,20 +51,19 @@ We'll learn to create expressions with logical operators that can be tested with
 
 We'll use Comparison and Logical operators  the  "**for**" loop and the "**while**" loop to run instructions multiple times. The operators will help the code decide when to start and stop a loop.
 
-#### Activity 1: Demo How Game uses Logic and Sequencing to Control the Flow of the Program
+#### Activity 1: Review Week 1
 
-Identify sections of the Adventure Game framework that use conditional tests.
+#### Activity 2: Introduce How to Make Decisions inside a program
 
-##### Exercise:
+#### Activity 3: Practice writing code that uses variables with different types
 
-* Create a flow chart that shows the flow of a set of instructions based on logical tests
-* Use conditional operators \(&lt;, &gt;, ==, &lt;=, and &gt;=\) to create logical expressions
-* Show tests for equality with different types
-* Use "if" to determine program flow
+#### Activity 4: Practice writing code that tests for values of different types
 
-#### Activity 2: Write a Challenge that uses conditional tests
+#### Activity 5: Write a program that asks for a name and then tests to see if it's your name
 
-In this Challenge we'll be able to test if the user responds correctly and provide feedback.
+#### Activity 6: Introduce the Adventure Game and add a Challenge
+
+#### Activity 7: Write a Challenge for the game
 
 ### Session 2: Looping and Functions
 
