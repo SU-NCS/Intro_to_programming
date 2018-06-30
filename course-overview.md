@@ -71,15 +71,17 @@ In this session we'll extend the use of conditionals to create loops.  Loops all
 
 #### Activity 1: Review Week 2 Session 1
 
-#### **Activity 2: Make a Flow chart**
+#### **Activity 2: Demo how to create a guessing game Challenge that uses Looping**
 
-#### **Activity 3: Write code for loops**
+#### **Activity 3: Make a Flow chart**
 
-#### Activity 4: Python Data Structures
+#### **Activity 4: Write code for loops**
 
-#### **Activity 5: Functions**
+#### Activity 5: Python Data Structures
 
-#### **Activity 6: Demo how to create a guessing game Challenge that uses Looping**
+#### **Activity 6: Functions**
+
+#### 
 
 ---
 
