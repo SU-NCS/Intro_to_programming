@@ -121,6 +121,8 @@ This week use Python to get information about the computer. We'll also learn how
 
 ### Session 1: Classes and Objects
 
+#### Activity 1: Review Week 3
+
 #### Activity 1: Demo how the Adventure Game uses Objects
 
 JSON

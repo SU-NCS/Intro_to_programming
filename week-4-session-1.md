@@ -30,7 +30,7 @@ characteristics \(nouns and adjectives\): make, model, color, year, max speed
 
 what they can doe \(verbs\): start, stop, brake, move forward, move in reverse, park
 
-#### Activity 4: Code a car class
+#### Activity 4: Code a class
 
 Code a car object using Python language elements shown below
 
