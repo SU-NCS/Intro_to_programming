@@ -12,7 +12,7 @@ JSON
 
 Internet API's
 
-#### Activity 2: Demostrate where Objects and Libraries are used in the Game
+#### Activity 2: Demonstrate where Classes and Objects are used in the Game
 
 #### Activity 3: Intro to Classes and Objects
 
