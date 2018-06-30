@@ -4,9 +4,16 @@ _**Introduction and Setup**_
 
 ## Activity 1: Write a program on paper
 
-### Excercises: Write a program on paper that ....
+Pen & paper—create set of instructions to do a task
+
+* Give your instructions to another group
+* Act out instructions & generalize
+* Discussion—groups explain what they did.
+* 
+**Exercises: Write a program on paper that ....**
 
 * Starts a car
+
 * Organizes socks by color
 * Makes a sandwich
 * Writes your name in secret numeric code where A=1, B=2, C=3...
