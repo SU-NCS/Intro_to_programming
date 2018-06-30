@@ -10,7 +10,11 @@
 * Program
 * Programming a challenge
 
-#### Activity 2: Introduce How to Make Decisions inside a program
+#### Activity 2: Introduce the Adventure Game and add a Challenge
+
+In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
+
+#### Activity 3: Introduce How to Make Decisions inside a program
 
 Variables have a name and a value.  Decisions are made by testing the value of variables.  Variable can be named anything you want with a few exceptions because computers are picky.
 
@@ -18,9 +22,9 @@ Variables have a name and a value.  Decisions are made by testing the value of v
 * Comparisons: ==, !=, &lt;=, &gt;=, &lt;, &gt;
 * Logical Operators: AND, OR, and NOT
 
-#### Activity 3: Demonstrate where the game makes decisions
+#### Activity 4: Demonstrate where the game makes decisions
 
-#### Activity 4: Practice writing code that uses variables
+#### Activity 5: Practice writing code that uses variables
 
 Create a variable with any name you want and assign a value.  Make variables for each of the types.  Notice strings have to have quotes around them.
 
@@ -30,7 +34,7 @@ str = "Hi"
 
 bool = TRUE
 
-#### Activity 5: Practice writing code that tests for values of different types
+#### Activity 6: Practice writing code that tests for values of different types
 
 write code that tests if they are a certain value.
 
@@ -40,7 +44,7 @@ if \(num == 2\) print \("true"\)
 
 if \(num == 1\) print \("true"\)
 
-#### Activity 6: Write a program that asks for a name and then tests to see if it's your name
+#### Activity 7: Write a program that asks for a name and then tests to see if it's your name
 
 print \("What's your name?"\)
 
@@ -50,7 +54,7 @@ We'll use Comparison and Logical operators with the "for" loop and the "while" l
 
 We'll do exercises in which we write code that uses the comparison and logical operators as well as the loops. We'll also see how the game framework uses the loops to control the flow of the game. We'll also learn to write Challenges that can be associated with an Episode in the game.
 
-#### Activity 7: Write a Challenge for the game
+#### Activity 8: Write a Challenge for the game
 
 Write a challenge that asks a question and tests the value of the answer
 
