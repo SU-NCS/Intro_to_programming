@@ -19,6 +19,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 * Act out instructions & generalize
 * Discussion—groups explain what they did.
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
+* Introduce the concepts of Input/Output and discuss local I/O with files and remote I/O via the Internet with API's
 
 #### Activity 2: Setup Dev Environment with Python 3 and Write Code
 
@@ -34,6 +35,7 @@ In the second activity for this week, we setup a development environment,  intro
 * Learn copy/paste keystrokes
 * Run python from the Terminal
 * Create a file that prints to the Console and run it in the Terminal
+* Add, Commit and Push a file to Github
 
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
