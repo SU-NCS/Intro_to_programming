@@ -123,11 +123,17 @@ This week use Python to get information about the computer. We'll also learn how
 
 #### Activity 1: Review Week 3
 
+#### Activity 2: Demostrate where Objects and Libraries are used in the Game
+
+#### Activity 3: Intro to Classes and Objects
+
+#### Activity 4: Code a class
+
 #### Activity 1: Demo how the Adventure Game uses Objects
 
-JSON
+---
 
-### Activity 2: Libraries
+### Session 1: Modules
 
 We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
 
