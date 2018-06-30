@@ -80,6 +80,8 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 #### **Activity 4: Write code for loops**
 
+#### Activity 5: Python Data Structures
+
 #### Activity 2: Functions
 
 Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variables that will be passed to it when called. Functions can also return values.
