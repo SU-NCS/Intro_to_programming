@@ -120,6 +120,8 @@ Searching for strings, Counting occurrences
 
 open\(\)/close\(\) vs with\(\)
 
+---
+
 ### Session 2: Read and Process Data
 
 #### Activity 1: Read Data from the Internet
@@ -142,7 +144,7 @@ Function to encrypt the creature introduction
 
 ---
 
-### Session 1: Creating and Using Objects
+### Session 1: Classes and Objects
 
 #### Activity 1: Demo how the Adventure Game uses Objects
 
@@ -153,6 +155,10 @@ JSON
 We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
 
 ##### Exercise:
+
+### Session 2: Modules and Projects
+
+#### 
 
 
 
