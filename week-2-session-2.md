@@ -163,5 +163,7 @@ else:
   print ("nay")
 ```
 
+#### **Activity 7: Write a Challenge for the Game that uses Looping and Functions**
+
 
 
