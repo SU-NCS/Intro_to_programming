@@ -45,7 +45,7 @@ In the Activities this week, we write programs that can be run as Challenges ins
 
 ### Session 1: Logic: Conditional Tests
 
-In the first activity for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program.
+In the first session for this week, we introduce the comparison and logcial operators which can be used to make decisions inside a program.
 
 We'll learn to create expressions with logical operators that can be tested with "**if**" to determine whether to proceed with further instructions.
 
@@ -67,12 +67,9 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 ### Session 2: Looping and Functions
 
-#### Activity 1: Review Week 2 Session 1
+In this session we'll extend the use of conditionals to create loops.  Loops allow us to execute a set of instructions multiple times.  The combination of sequencing and looping is what give us the ability to automate work.  We'll also create functions.  Functions help to organize code.  We can create a loop that executes a functions multiple times.
 
-* Variables
-* Decision making in a program
-* Logical operators
-* Logical expresssions
+#### Activity 1: Review Week 2 Session 1
 
 #### **Activity 2: Demo how to create a guessing game Challenge that uses Looping**
 
@@ -82,16 +79,7 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 #### Activity 5: Python Data Structures
 
-#### Activity 2: Functions
-
-Functions help to organize code and prevent duplicating code through the program. A function is a named chunk of code that can be called from another section of the program. It can define parameters which are variables that will be passed to it when called. Functions can also return values.
-
-We'll do exercises in which write and call functions with parameters and return values. For example we can write a function that takes two numbers, adds them together and returns the sum. We'll also incoporate functions into the code we write for the Challenge.
-
-##### Exercise:
-
-* Create and call a function that has no parameters and returns nothing
-* Create and call a  function that has parameters and returns a value
+#### **Activity 6: Functions**
 
 ---
 
