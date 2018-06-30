@@ -23,38 +23,15 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 #### Activity 2: Setup Dev Environment with Python 3 and Write Code
 
-In the second activity for this week, we setup a development environment,  introduce variables and write our first program.
-
-* Introduce Basic Computer Architecture to help understand file creation and program execution
-* Download and **Install Python 3**
-* Download and **Install Visual Studio Code** \("**Code**"\)
-* Download and **Install Git**
-* Sign up for a **Free Github Account**
-* Become familiar with the Code Editor and File Creation
-* Become familiar with the Code Terminal
-* Learn copy/paste keystrokes
-* Run python from the Terminal
-* Create a file that prints to the Console and run it in the Terminal
-* Add, Commit and Push a file to Github
+In the second activity for this week, we setup a development environment,  introduce variables and write our first program
 
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
 #### Activity 1: Write a program to introduce yourself
 
-* Understand what a variable is and how to create one
-* Understand basic data types such as numbers and strings
-* Learn basic syntax print, variables, operators, string & integrate, import
-* Create a program to introduce yourself: "Hello my name is \_\_\_\_\_"
-* int, float,double, char, string, list, dict
-
 #### Activity 2: Write a Challenge for the Adventure Game using I/O
 
-* Write a challenge that uses math to add, subtract, multiply or divide
-* Write a challenge that asks a question and tests the value of the answer
-
 #### Activity 3: Introduce the Adventure Game and add a Challenge
-
-In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
 
 ---
 
