@@ -91,52 +91,27 @@ In this session we'll extend the use of conditionals to create loops.  Loops all
 
 This week use Python to get information about the computer. We'll also learn how read files, process data and write data out to files. These activities help to understand computer I/O and CPU usage. The ability to save data will allow us to create data driven applications.
 
-### Session 1: Read and Write Files
+### Session 1: File I/O
 
-#### Activity 1: Review Computer Architecture to Understand File I/O on the Computer
+#### Activity 1: Review Week 2
 
-##### Exercise:
+#### Activity 2: Demostrate where file I/O is used in the Game
 
-* Open a file and write text to it
-* Open a file, read text and output to Console
-* Write a function that takes a filename as a parameter and returns the contents of the file
+#### **Activity 3: What is I/O?  Input/Output**
 
-#### Activity 2: Use Code to find out information about the Computer
+#### Activity 4: What is "os"? Operating System
 
-##### Exercise:
-
-Use the sys library to find out
-
-* platform
-* windows version
-* PATH 
-* python version
-
-#### Activity 3: Using Regex \(Regular Expressions\) and Working with Text
-
-Logs
-
-Searching for strings, Counting occurrences
-
-open\(\)/close\(\) vs with\(\)
+#### Activity 5: Create a Challenge for the Game that uses a file
 
 ---
 
-### Session 2: Read and Process Data
+### Session 2: Read and Process Data from the Internet
 
 #### Activity 1: Read Data from the Internet
 
-##### Exercise:
+#### Activity 2: Process data from the Internet
 
-* Use [http://numbersapi.com](http://numbersapi.com) to get information about number in JSON format
-* Get a number from the user
-* Return information about the number
-
-#### Activity 2: Challenge
-
-Open files to decipher what creature is saying - player would have to choose the right key file
-
-Function to encrypt the creature introduction
+#### Activity 3: Create a Challenge for the Game that uses data from the internet
 
 ---
 
