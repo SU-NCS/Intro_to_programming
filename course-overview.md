@@ -27,6 +27,8 @@ In the second activity for this week, we setup a development environment,  intro
 * Introduce Basic Computer Architecture to help understand file creation and program execution
 * Download and **Install Python 3**
 * Download and **Install Visual Studio Code** \("**Code**"\)
+* Download and **Install Git**
+* Sign up for a **Free Github Account**
 * Become familiar with the Code Editor and File Creation
 * Become familiar with the Code Terminal
 * Learn copy/paste keystrokes
