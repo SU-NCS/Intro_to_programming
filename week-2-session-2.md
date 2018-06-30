@@ -19,7 +19,7 @@ _**Looping, Data Structures, and Functions**_
 
 * **how the loop is terminated**
 
-#### **Activity 2: Make a Flow chart**
+#### **Activity 3: Make a Flow chart**
 
 **Flow charts are used when designing code**
 
