@@ -129,8 +129,6 @@ This week use Python to get information about the computer. We'll also learn how
 
 #### Activity 4: Code a class
 
-#### Activity 1: Demo how the Adventure Game uses Objects
-
 ---
 
 ### Session 1: Modules
