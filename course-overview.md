@@ -67,19 +67,18 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 ### Session 2: Looping and Functions
 
-#### Activity 1: Demo how to create a guessing game Challenge that uses Looping
+#### Activity 1: Review Week 2 Session 1
 
-Identify sections of the Adventure Game framework that loop. Show
+* Variables
+* Decision making in a program
+* Logical operators
+* Logical expresssions
 
-* how the loop is intiated 
-* what keeps it going 
-* how the loop is terminated
+#### **Activity 2: Demo how to create a guessing game Challenge that uses Looping**
 
-##### Exercise:
+#### **Activity 3: Make a Flow chart**
 
-* Create a while loop
-* Create a for loop
-* Describe the difference between a for loop and a while loop
+#### **Activity 4: Write code for loops**
 
 #### Activity 2: Functions
 

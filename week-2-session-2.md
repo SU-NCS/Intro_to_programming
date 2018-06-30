@@ -25,7 +25,7 @@ _**Looping, Data Structures, and Functions**_
 
 ![](/assets/flow-chart-while.png)
 
-#### **Activity 4: Try writing loops**
+#### **Activity 4: Write code for loops**
 
 Code sample for while loop
 
@@ -76,7 +76,7 @@ Exercise:
 
 * Describe the difference between a for loop and a while loop
 
-#### Activity 5: Python Data Structures:
+#### Activity 5: Python Data Structures
 
 ##### List: an ordered structure
 
