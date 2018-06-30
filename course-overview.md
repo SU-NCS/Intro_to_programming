@@ -14,10 +14,6 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
 
-* Pen & paper—create set of instructions to do a task
-* Give your instructions to another group
-* Act out instructions & generalize
-* Discussion—groups explain what they did.
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
 * Introduce the concepts of Input/Output and discuss local I/O with files and remote I/O via the Internet with API's
 
