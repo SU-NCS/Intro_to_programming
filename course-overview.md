@@ -8,7 +8,7 @@
 
 ### Session 1: What's a program? What is Python?
 
-This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it. 
+This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
 
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
 * Introduce the concepts of Input/Output and discuss local I/O with the **console**,  **files** and **remote** I/O via the Internet with API's
@@ -63,21 +63,23 @@ We'll use Comparison and Logical operators  the  "**for**" loop and the "**while
 
 #### Activity 7: Write a Challenge for the game
 
+---
+
 ### Session 2: Looping and Functions
 
 In this session we'll extend the use of conditionals to create loops.  Loops allow us to execute a set of instructions multiple times.  The combination of sequencing and looping is what give us the ability to automate work.  We'll also create functions.  Functions help to organize code.  We can create a loop that executes a functions multiple times.
 
 #### Activity 1: Review Week 2 Session 1
 
-#### **Activity 2: Demo how to create a guessing game Challenge that uses Looping**
+#### **Activity 2: Make a Flow chart**
 
-#### **Activity 3: Make a Flow chart**
+#### **Activity 3: Write code for loops**
 
-#### **Activity 4: Write code for loops**
+#### Activity 4: Python Data Structures
 
-#### Activity 5: Python Data Structures
+#### **Activity 5: Functions**
 
-#### **Activity 6: Functions**
+#### **Activity 6: Demo how to create a guessing game Challenge that uses Looping**
 
 ---
 
