@@ -23,7 +23,7 @@ In the second activity for this week, we setup a development environment,  intro
 
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
-In this session we use variables and to gather information of different types form the console.  We also introduce the way in with sequencing of instructions creates the flow of the program.  
+In this session we use variables and to gather information of different types form the console.  We also introduce the way in with sequencing of instructions creates the flow of the program.
 
 #### Activity 1: Write a program to introduce yourself
 
