@@ -12,20 +12,22 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 #### Activity 1: What's a program?
 
-This week we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
+In this session we take a high level view of programming. We also introduce Python, what it is, where it comes from, and why we're using it.
 
 * Introduce the concepts of **sequencing**, acting on **conditional** tests, **looping**, and **I/O** used as applied to everyday activities
-* Introduce the concepts of Input/Output and discuss local I/O with files and remote I/O via the Internet with API's
+* Introduce the concepts of Input/Output and discuss local I/O with the **console**,  **files** and **remote** I/O via the Internet with API's
 
-#### Activity 2: Setup Dev Environment with Python 3 and Write Code
+#### Activity 2: Setup Dev Environment for Python 3 and Write Code
 
-In the second activity for this week, we setup a development environment,  introduce variables and write our first program
+In the second activity for this week, we setup a development environment,  introduce variables and write our first program.
 
 ### Session 2: Sequencing, Variables and Types, Console I/O
 
+In this session we use variables and to gather information of different types form the console.  We also introduce the way in with sequencing of instructions creates the flow of the program.  
+
 #### Activity 1: Write a program to introduce yourself
 
-#### Activity 2: Write a Challenge for the Adventure Game using I/O
+#### Activity 2: Write a Challenge for the Adventure Game using Console I/O
 
 #### Activity 3: Introduce the Adventure Game and add a Challenge
 
