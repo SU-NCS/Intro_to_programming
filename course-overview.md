@@ -23,7 +23,7 @@ This week we take a high level view of programming. We also introduce Python, wh
 
 In this session we use variables and to gather information of different types form the console.  We also introduce the way in with sequencing of instructions creates the flow of the program.
 
-#### Activity 1: Review
+#### Activity 1: Review Week 1 Session 1
 
 #### Activity 2: Write a program to introduce yourself
 
@@ -131,13 +131,13 @@ This week use Python to get information about the computer. We'll also learn how
 
 ---
 
-### Session 1: Modules
+### Session 2: Modules, Libraries and Work on Final Project
 
-We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
+In this session learn how to import code from external files working with modules and libraries. We'll review some of the libraries that we've used in previous sessions and talk about what other libraries are available. We'll practice installing libraries with **pip **and then importing and using in a program.
 
-##### Exercise:
+#### Activity 1: Review Week 4 Session 1
 
-### Session 2: Modules and Projects
+#### Activity 2: Install and Import Libraries
 
 #### 
 

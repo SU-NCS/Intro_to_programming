@@ -1,6 +1,6 @@
 # Week 4: Session 2
 
-_**Modules and Design and Implement a Complex Challenge**_
+_**Modules, Libraries and Design and Implement a Complex Challenge**_
 
 #### Activity 1: Review Week 4 Session 1
 
@@ -36,6 +36,10 @@ import age_prompt
 age = age_prompt.ask_age()
 print("Hello ",age," year old!")
 ```
+
+#### Activity 2: Install and Import Libraries
+
+Libraries are made available by package managers like pip.  We'll look at libraries we've used and try out some new libraries.
 
 #### Activity 3: Work on a challenge that incorporates all of the following
 
