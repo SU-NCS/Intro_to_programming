@@ -107,6 +107,8 @@ This week use Python to get information about the computer. We'll also learn how
 
 ### Session 2: Read and Process Data from the Internet
 
+We can access data from websites on the internet using their Application Programming Interface \(API\).  Data is commonly in a JSON format.  This format is similar to the Dictionary data structure in Python and we can access it in a similar way.
+
 #### Activity 1: Read Data from the Internet
 
 #### Activity 2: Process data from the Internet
@@ -121,6 +123,8 @@ This week use Python to get information about the computer. We'll also learn how
 
 ### Session 1: Classes and Objects
 
+In this session we will learn how to encapsulate data and functions in class definitions.  Once we have a class defined we can instantiate it by calling its constructor.  Once we have an instance of a class we can reference it with a variable.
+
 #### Activity 1: Review Week 3
 
 #### Activity 2: Demostrate where Objects and Libraries are used in the Game
@@ -128,6 +132,8 @@ This week use Python to get information about the computer. We'll also learn how
 #### Activity 3: Intro to Classes and Objects
 
 #### Activity 4: Code a class
+
+#### Activity 5: Code for instantiating an Object from a Class
 
 ---
 
