@@ -19,13 +19,13 @@ _**Looping, Data Structures, and Functions**_
 
 * **how the loop is terminated**
 
-#### **Activity 2: Make a Flow chart**
+#### **Activity 3: Make a Flow chart**
 
 **Flow charts are used when designing code**
 
 ![](/assets/flow-chart-while.png)
 
-#### **Activity 4: Try writing loops**
+#### **Activity 4: Write code for loops**
 
 Code sample for while loop
 
@@ -76,7 +76,7 @@ Exercise:
 
 * Describe the difference between a for loop and a while loop
 
-#### Activity 5: Python Data Structures:
+#### Activity 5: Python Data Structures
 
 ##### List: an ordered structure
 
@@ -162,6 +162,8 @@ if guess_function(3,5):
 else:
   print ("nay")
 ```
+
+#### **Activity 7: Write a Challenge for the Game that uses Looping and Functions**
 
 
 

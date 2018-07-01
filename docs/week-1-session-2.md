@@ -20,11 +20,11 @@ Review Session 1
 * Create a program to introduce yourself: "Hello my name is \_\_\_\_\_"
 * int, float,double, char, string, list, dict
 
-#### Activity 3: Write a Challenge for the Adventure Game using I/O
+#### Activity 3: Write a Program that works with numbers
 
 Write a challenge that uses math to add, subtract, multiply or divide
 
-#### Activity 4: Introduce the Adventure Game and add a Challenge
+#### 
 
-In the final activity for the week, we introduce the Adventure Game framework and students write a challenge using the "print" statement.
+
 

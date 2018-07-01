@@ -12,7 +12,7 @@ JSON
 
 Internet API's
 
-#### Activity 2: Demostrate where Objects and Libraries are used in the Game
+#### Activity 2: Demonstrate where Classes and Objects are used in the Game
 
 #### Activity 3: Intro to Classes and Objects
 
@@ -30,7 +30,7 @@ characteristics \(nouns and adjectives\): make, model, color, year, max speed
 
 what they can doe \(verbs\): start, stop, brake, move forward, move in reverse, park
 
-#### Activity 4: Code a car class
+#### Activity 4: Code a class
 
 Code a car object using Python language elements shown below
 
