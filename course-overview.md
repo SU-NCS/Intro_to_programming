@@ -139,6 +139,8 @@ In this session learn how to import code from external files working with module
 
 #### Activity 2: Install and Import Libraries
 
+#### Activity 3: Work on a Final Project
+
 #### 
 
 
