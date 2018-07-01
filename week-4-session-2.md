@@ -41,7 +41,7 @@ print("Hello ",age," year old!")
 
 Libraries are made available by package managers like pip.  We'll look at libraries we've used and try out some new libraries.
 
-#### Activity 3: Work on a challenge that incorporates all of the following
+#### Activity 3: Work on a Final Project
 
 * Flow chart
 * Decision making: variables, logic, looping
