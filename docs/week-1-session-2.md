@@ -18,9 +18,15 @@ Review Session 1
 * Understand basic data types such as numbers and strings
 * Learn basic syntax print, variables, operators, string & integrate, import
 * Create a program to introduce yourself: "Hello my name is \_\_\_\_\_"
-* int, float,double, char, string, list, dict
+* types: string, int, float, double
 
 #### Activity 3: Write a Program that works with numbers
+
+```
+age = input("How old are you? ")
+years_plus_3 = int(age) + 3
+print ("in 3 years, you'll be ",years_plus_3)
+```
 
 Write a challenge that uses math to add, subtract, multiply or divide
 

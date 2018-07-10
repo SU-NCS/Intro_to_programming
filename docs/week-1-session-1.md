@@ -17,20 +17,19 @@ Pen & paper—create set of instructions to do a task
 * Makes a sandwich
 * Writes your name in secret numeric code where A=1, B=2, C=3...
 
-## Activity 2: Install Python 3, Visual Studio Code and Git/Github
+## Activity 2: Install Python 3 and Visual Studio Code/Create repl.it account
 
 ### Setup local work environement
 
 * Download and **Install Python 3**
 * Download and **Install Visual Studio Code** \("**Code**"\)
-* Download and **Install Git**
-* Sign up for a **Free Github Account**
+* Sign up for a free** **[**repl.it**](https://repl.it/repls)** Account**
 * Become familiar with the Code Editor and File Creation
 * Become familiar with the Code Terminal
 * Learn copy/paste keystrokes
 * Run python from the Terminal
 * Create a file that prints to the Console and run it in the Terminal
-* Add, Commit and Push a file to Github
+* Upload a file to [repl.it](https://repl.it/repls)
 
 ### Practice: Useful Editing Keystrokes for Windows
 
@@ -90,11 +89,11 @@ Is the computer really adding 1 and 1 below?
 
 ### Running Code in a file
 
-Go to \(or open by clicking on\) the **test.py** file your created.
+Go to \(or open by clicking on\) the **main.py** file your created.
 
 Copy and paste the code you wrote on the command line above into the test.py file. Save the file.
 
-Go to the command line and run the code in the file by typing in **python test.py**
+Go to the command line and run the code in the file by typing in **python main.py**
 
 What happened when you execute the code from the file?
 
