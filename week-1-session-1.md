@@ -23,7 +23,6 @@ Pen & paper—create set of instructions to do a task
 
 * Download and **Install Python 3**
 * Download and **Install Visual Studio Code** \("**Code**"\)
-
 * Sign up for a free** **[**repl.it**](https://repl.it/repls)** Account**
 * Become familiar with the Code Editor and File Creation
 * Become familiar with the Code Terminal
