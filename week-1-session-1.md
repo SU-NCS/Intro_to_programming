@@ -89,11 +89,11 @@ Is the computer really adding 1 and 1 below?
 
 ### Running Code in a file
 
-Go to \(or open by clicking on\) the **test.py** file your created.
+Go to \(or open by clicking on\) the **main.py** file your created.
 
 Copy and paste the code you wrote on the command line above into the test.py file. Save the file.
 
-Go to the command line and run the code in the file by typing in **python test.py**
+Go to the command line and run the code in the file by typing in **python main.py**
 
 What happened when you execute the code from the file?
 
