@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Classes and Objects**_
+_**Classes and Objects/Modules and Libraries**_
 
 #### Activity 1: Review Week 3
 
@@ -154,6 +154,4 @@ print("Hello ",age," year old!")
 #### Activity 7: Install and Import Libraries
 
 Libraries are made available by package managers like pip.  We'll look at libraries we've used and try out some new libraries.
-
-
 
