@@ -1,45 +1,32 @@
 # Week 4: Session 2
 
-_**Modules, Libraries and Design and Implement a Complex Challenge**_
+_**GUI: Graphical User Interface**_
 
-#### Activity 1: Review Week 4 Session 1
+Most computer users interact with a GUI.  The command line is used by programmers and admins.  Python includes a library that creates a GUI.  We'll look at  how we can create a GUI using the Turtle library.
 
-* Classes
-* Objects
-* Instantiate an object
+GUI's rely on a window or canvas to draw on.  There is a 2 dimensional coordinate system where you can write pixels.  It is important to know the layout of this coordinate system so you can place your pixels in the intended location. The Turtle grid has is origin \(0,0\) in the middle of the canvas.
 
-#### Activity 1: Modules
+![](/assets/turtle-grid.png)
 
-Modules help us to organize code into a separate files. Using the import command we can access module code from another file.
+The way to think abut using Turtle is this: there is a turtle with a pen on its back and it walks around on the canvas.  When the pen goes down, the pixels are recorded on the canvas.  When the pen is up nothing is recorded.
 
-The import command names the file \(without the .py extension\) that contains the code you want to import.  You can reference functions in that file by using the dot\(.\).
+The turtle can be programmed using all of the python data structures and commands that you have learned.  The code for mosaic below was drawn with Turtle.  The turtle can move forward and backward and turns are specified by right and left.  The parameters accepted by forward and backward are the number of pixels to write.  The parameters accepted by left and right are the degrees.  A line is 180 degrees, a right angle is 90 degrees and a circle is 360 degrees.
 
-**Exercise**
+![](/assets/moroccan-mosaic.png)
 
-Create a file \(name\_prompt.py\) that contains a function that asks you your name.
-
-Create a file \(use\_name\_prompt.py\) that import the first file and executes the function in it.
-
-Here's an example of two files \(name\__prompt.py and use\_name\_prompt.py\) that are working together using the import command._
+The function to draw the mosaic contains code that will look familiar.
 
 ```
-# age_prompt.py
-def ask_age():
-  age = input("Enter your age:")
-  return age
+def draw(color,sides,size,loops):
+ myPen.color(color)
+ for i in range(0,loops):
+   for j in range (0,sides):
+     myPen.forward(size)
+     myPen.left(360 / sides)
+   myPen.left(360 / loops)
 ```
 
-```
-# use_age_prompt.py
-import age_prompt
-
-age = age_prompt.ask_age()
-print("Hello ",age," year old!")
-```
-
-#### Activity 2: Install and Import Libraries
-
-Libraries are made available by package managers like pip.  We'll look at libraries we've used and try out some new libraries.
+#### 
 
 #### Activity 3: Work on a Final Project
 

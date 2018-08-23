@@ -1,6 +1,6 @@
 # Week 4: Session 1
 
-_**Classes and Objects**_
+_**Classes, Objects, Modules, Packages and Libraries**_
 
 #### Activity 1: Review Week 3
 
@@ -14,13 +14,21 @@ Internet API's
 
 #### Activity 2: Demonstrate where Classes and Objects are used in the Game
 
-#### Activity 3: Intro to Classes and Objects
+#### Activity 3: Intro to Classes and Objects/Modules and libraries
+
+As programs grow, it becomes important to organize and **encapsulate** both data and functionality.  We are always looking for ways to share code in way that allows us to just write the code once and not rely on copy/paste to share it.
 
 **Objects** are nouns and can be described by their parts, or characteristics \(adjectives\) and what they can do \(verbs\)
 
 **Classes** allow us to define code in the way we would define an object in real life.
 
 The class code is a template for the object, and when we want to use the object we get an **instance** of a specific object.
+
+**Modules **are code chunks such as classes, stand alone functions and constants that are stored in a file and can be imported into another file.  Look at the code for the python os module:[ https://github.com/python/cpython/blob/master/Lib/os.py](https://github.com/python/cpython/blob/master/Lib/os.py)
+
+**Packages** are a collection of Modules.  It is a directory with a collection of files and an \_\_init\_\_.py file which distinguishes it from just a directory with a bunch of python scripts.  We think of the directory as a **namespace** which means I can have a file called **update.py** in a directory that is a package named "Student" and Student.update would be different than a update.py not in the package.  Namespacing allows us to reuse names for files.  
+
+**Libraries **are containers for packages. Look at the code for python's numPi library: [https://github.com/numpy/numpy/tree/master/numpy](https://github.com/numpy/numpy/tree/master/numpy)
 
 **Exercise**:
 
@@ -122,7 +130,36 @@ def main():
 main()
 ```
 
-#### 
+#### Activity 6: Modules
 
+Modules help us to organize code into a separate files. Using the import command we can access module code from another file.
 
+The import command names the file \(without the .py extension\) that contains the code you want to import.  You can reference functions in that file by using the dot\(.\).
+
+**Exercise**
+
+Create a file \(name\_prompt.py\) that contains a function that asks you your name.
+
+Create a file \(use\_name\_prompt.py\) that import the first file and executes the function in it.
+
+Here's an example of two files \(name\__prompt.py and use\_name\_prompt.py\) that are working together using the import command._
+
+```
+# age_prompt.py
+def ask_age():
+  age = input("Enter your age:")
+  return age
+```
+
+```
+# use_age_prompt.py
+import age_prompt
+
+age = age_prompt.ask_age()
+print("Hello ",age," year old!")
+```
+
+#### Activity 7: Install and Import Libraries
+
+Libraries are made available by package managers like pip.  We'll look at libraries we've used and try out some new libraries.
 
