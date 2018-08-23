@@ -17,6 +17,7 @@
 | fillcolor\(color\) |  | fillcolor\(red\), fillcolor\(red, green, blue\) |
 | begin\_fill\(\) |  |  |
 | end\_fill\(\) |  |  |
+| stamp\(\) | Prints a stamp |  |
 
 #### 
 
