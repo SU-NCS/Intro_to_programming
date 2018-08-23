@@ -26,9 +26,9 @@ The class code is a template for the object, and when we want to use the object 
 
 **Modules **are code chunks such as classes, stand alone functions and constants that are stored in a file and can be imported into another file.  Look at the code for the python os module:[ https://github.com/python/cpython/blob/master/Lib/os.py](https://github.com/python/cpython/blob/master/Lib/os.py)
 
-**Packages** are a collection of Modules.  It is a directory with a collection of files and an \_\_init\_\_.py file which distinguishes it from just a directory with a bunch of python scripts.  We think of the directory as a **namespace** which means I can have a file called **update.py** in a directory that is a package named "Student" and Student.update would be different than a update.py not in the package.  Namespacing allows us to reuse names for files.  Look at the code for python's numPi library: [https://github.com/numpy/numpy/tree/master/numpy](https://github.com/numpy/numpy/tree/master/numpy)
+**Packages** are a collection of Modules.  It is a directory with a collection of files and an \_\_init\_\_.py file which distinguishes it from just a directory with a bunch of python scripts.  We think of the directory as a **namespace** which means I can have a file called **update.py** in a directory that is a package named "Student" and Student.update would be different than a update.py not in the package.  Namespacing allows us to reuse names for files.  
 
-**Libraries **are containers for packages.
+**Libraries **are containers for packages. Look at the code for python's numPi library: [https://github.com/numpy/numpy/tree/master/numpy](https://github.com/numpy/numpy/tree/master/numpy)
 
 **Exercise**:
 
