@@ -15,4 +15,5 @@
 * [Install Python 3 on Windows](install-python-3-on-windows.md)
 * [Install Visual Studio Code on Windows](install-visual-studio-code-on-windows.md)
 * Install Git on Windows
+* [Turtle Commands](turtle-commands.md)
 
