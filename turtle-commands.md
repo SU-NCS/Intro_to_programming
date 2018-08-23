@@ -14,6 +14,9 @@
 | penup\(\) |  |  |
 | pensize\(size\) |  |  |
 | pencolor\(\) |  | pencolor\(red\) |
+| fillcolor\(color\) |  | fillcolor\(red\), fillcolor\(red, green, blue\) |
+| begin\_fill\(\) |  |  |
+| end\_fill\(\) |  |  |
 
 #### 
 
