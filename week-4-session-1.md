@@ -28,7 +28,7 @@ The class code is a template for the object, and when we want to use the object 
 
 **Packages** are a collection of Modules.  It is a directory with a collection of files and an \_\_init\_\_.py file which distinguishes it from just a directory with a bunch of python scripts.  We think of the directory as a **namespace** which means I can have a file called **update.py** in a directory that is a package named "Student" and Student.update would be different than a update.py not in the package.  Namespacing allows us to reuse names for files.
 
-Libraries
+**Libraries **
 
 **Exercise**:
 
