@@ -28,7 +28,7 @@ virtualenv -h
 
 You'll have information that looks something like this:![](/assets/pip-install.png)
 
-To test your installation:
+_**To test your installation:**_
 
 Now that you have that installed, we'll set up a project directory, navigate into that directory and create our virtual environment folder.
 
