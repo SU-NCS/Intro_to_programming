@@ -12,7 +12,7 @@ The way to think abut using Turtle is this: there is a turtle with a pen on its 
 
 The turtle can be programmed using all of the python data structures and commands that you have learned.  The code for mosaic below was drawn with Turtle.  The turtle can move forward and backward and turns are specified by right and left.  The parameters accepted by forward and backward are the number of pixels to write.  The parameters accepted by left and right are the degrees.  A line is 180 degrees, a right angle is 90 degrees and a circle is 360 degrees.
 
-![](/assets/moroccan-mosaic.png)
+![](/assets/mosaic.png)
 
 The function to draw the mosaic contains code that will look familiar.
 

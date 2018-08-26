@@ -360,7 +360,21 @@
 <p><strong>Visual Studio Code</strong>: An interactive development environment</p>
 <h2 id="python-3">Python 3</h2>
 <p>For Python 3 on Windows 7 install use this link to walk you through the install: <a href="https://docs.python-guide.org/starting/install3/win/" target="_blank">https://docs.python-guide.org/starting/install3/win/</a>.  The link describes how you will install  first install Chocolatey which is a Windows 7 package manager and then use it to install Python3 and will make it possible for your to install Python. Follow the Chocolatey instuctions here:  <a href="https://docs.python-guide.org/starting/install3/win/" target="_blank">https://docs.python-guide.org/starting/install3/win</a>.  Once Python is installed, you&apos;ll install <strong>pip</strong>, which is the Python package manager.</p>
-<p>Follow the link to installing pipenv to set up a python environment manager: <a href="https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref" target="_blank">https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref</a>.</p>
+<h5 id="install-virtualenv-and-setup-first-environment">Install Virtualenv and Setup First Environment</h5>
+<p>In Windows use an elevated prompt (run as admin) run the following command to install virtualenv.</p>
+<pre><code>pip install virtualenv
+</code></pre><p>Easy as that. You&apos;ve just installed the virtualenv tool. I&apos;d strongly encourage you to inspect the help information for the tool to learn more about how it works. To do so, in your terminal type:</p>
+<pre><code>virtualenv -h
+</code></pre><p>You&apos;ll have information that looks something like this:<img src="assets/pip-install.png" alt=""></p>
+<p><em><strong>To test your installation:</strong></em></p>
+<p>Now that you have that installed, we&apos;ll set up a project directory, navigate into that directory and create our virtual environment folder.</p>
+<p>First, navigate into your home directory:</p>
+<p><code>cd %HOMEPATH%</code></p>
+<p>Then create a directory for your project and navigate into it.</p>
+<pre><code>mkdir my_project
+cd my_project
+virtualenv -p [path to python executable] my_env
+</code></pre><p>Follow the link to installing pipenv to set up a python environment manager for more information: <a href="https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref" target="_blank">https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref</a>.</p>
 <h2 id="download-and-install-git">Download and Install Git</h2>
 <p><a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a></p>
 <p>This will install a Folder with a number of file and programs.</p>
@@ -422,7 +436,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Environment Setup","level":"1.17","depth":1,"previous":{"title":"Turtle Commands","level":"1.16","depth":1,"path":"turtle-commands.md","ref":"turtle-commands.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"environment-setup.md","mtime":"2018-08-26T16:45:46.504Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-08-26T16:55:17.999Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Environment Setup","level":"1.17","depth":1,"previous":{"title":"Turtle Commands","level":"1.16","depth":1,"path":"turtle-commands.md","ref":"turtle-commands.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"environment-setup.md","mtime":"2018-08-26T18:54:04.057Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-08-26T18:56:00.827Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
