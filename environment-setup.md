@@ -8,8 +8,6 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 **Visual Studio Code**: An interactive development environment
 
-
-
 ### Python 3
 
 ### 
@@ -18,8 +16,7 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 ### 
 
-## Git
-# Download and Install Git
+## Download and Install Git
 
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
