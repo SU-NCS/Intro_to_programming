@@ -12,7 +12,7 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 For Python 3 on Windows 7 install use this link to walk you through the install: [https://docs.python-guide.org/starting/install3/win/](https://docs.python-guide.org/starting/install3/win/).  The link describes how you will install  first install Chocolatey which is a Windows 7 package manager and then use it to install Python3 and will make it possible for your to install Python. Follow the Chocolatey instuctions here:  [https://docs.python-guide.org/starting/install3/win](https://docs.python-guide.org/starting/install3/win/).  Once Python is installed, you'll install **pip**, which is the Python package manager.
 
-https://docs.python-guide.org/dev/virtualenvs/\#virtualenvironments-ref
+Follow the link to installing pipenv to set up a python environment manager: [https://docs.python-guide.org/dev/virtualenvs/\#virtualenvironments-ref](https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref).
 
 ## Download and Install Git
 
@@ -57,6 +57,4 @@ You can add a plugin by clicking on the lowest left icon and then search for and
 ## repl.it
 
 There is no installation needed for repl.it as it is a cloud application.  This is a place to create and run python scripts.  It's also a good place to store them and it's free to join.  Navigate here on your browser: [https://repl.it/](https://repl.it/).  Each student can create their own account on repl.it and use it to upload scripts created in class.
-
-
 
