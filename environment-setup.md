@@ -8,7 +8,13 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 **Visual Studio Code**: An interactive development environment
 
-### Python 3
+## Python 3
+
+For Windows 7 install,  you will first install Chocolatey which is a Windows 7 package manager.  This will make it possible for your to install Pythond https://docs.python-guide.org/starting/install3/win/
+
+
+
+
 
 ## Download and Install Git
 
