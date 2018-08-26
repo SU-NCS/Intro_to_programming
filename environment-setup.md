@@ -10,7 +10,7 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 ## Python 3
 
-For Python 3 on Windows 7 install use this link to walk you through the install: [https://docs.python-guide.org/starting/install3/win/](https://docs.python-guide.org/starting/install3/win/).  The link describes how you will install  first install Chocolatey which is a Windows 7 package manager and then use it to install Python3..  This will make it possible for your to install Python. Follow the Chocolatey instuctions here:  [https://docs.python-guide.org/starting/install3/win/](https://docs.python-guide.org/starting/install3/win/)
+For Python 3 on Windows 7 install use this link to walk you through the install: [https://docs.python-guide.org/starting/install3/win/](https://docs.python-guide.org/starting/install3/win/).  The link describes how you will install  first install Chocolatey which is a Windows 7 package manager and then use it to install Python3 and will make it possible for your to install Python. Follow the Chocolatey instuctions here:  [https://docs.python-guide.org/starting/install3/win](https://docs.python-guide.org/starting/install3/win/).  Once Python is installed, you'll install **pip**, which is the Python package manager.
 
 ## Download and Install Git
 
