@@ -16,4 +16,5 @@
 * [Install Visual Studio Code on Windows](install-visual-studio-code-on-windows.md)
 * Install Git on Windows
 * [Turtle Commands](turtle-commands.md)
+* [Environment Setup](environment-setup.md)
 
