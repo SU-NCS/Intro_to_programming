@@ -12,6 +12,43 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 For Python 3 on Windows 7 install use this link to walk you through the install: [https://docs.python-guide.org/starting/install3/win/](https://docs.python-guide.org/starting/install3/win/).  The link describes how you will install  first install Chocolatey which is a Windows 7 package manager and then use it to install Python3 and will make it possible for your to install Python. Follow the Chocolatey instuctions here:  [https://docs.python-guide.org/starting/install3/win](https://docs.python-guide.org/starting/install3/win/).  Once Python is installed, you'll install **pip**, which is the Python package manager.
 
+
+
+##### Install Virtualenv and Setup First Environment
+
+In Windows use an elevated prompt \(run as admin\) run the following command to install virtualenv. 
+
+```
+pip install virtualenv
+
+```
+
+Easy as that. You've just installed the virtualenv tool. I'd strongly encourage you to inspect the help information for the tool to learn more about how it works. To do so, in your terminal type:
+
+```
+virtualenv -h
+
+```
+
+You'll have information that looks something like this:![](/assets/pip-install.png)
+
+Take a few minutes and read through the various options that you can select. We'll be using the-pflag to identify which version of python we want to use.
+
+Now that you have that installed, we'll set up a project directory, navigate into that directory and create our virtual environment folder.
+
+To test your installation, first, navigate into your home directory:
+
+` cd %HOMEPATH%`
+
+Then create a directory for your project and navigate into it.
+
+```
+mkdir my_project
+cd my_project
+virtualenv -p [path to python executable] my_env
+
+```
+
 Follow the link to installing pipenv to set up a python environment manager: [https://docs.python-guide.org/dev/virtualenvs/\#virtualenvironments-ref](https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref).
 
 ## Download and Install Git
