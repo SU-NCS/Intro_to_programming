@@ -44,7 +44,7 @@ Make "Git Bash" the default command line in VS Code terminal by adding the follo
 
 `"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"`
 
-### Add a Python Plugin
+#### Add a Python Plugin
 
 You can add a plugin by clicking on the lowest left icon and then search for and installing a plugin.  Install the "Python" extension by search for "Python" and then selecting and installing.  This plug helps with code formatting.
 
