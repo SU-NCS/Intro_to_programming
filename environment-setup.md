@@ -13,6 +13,7 @@ We'll use these tools in setting up the development environment.   The tools inc
 ### 
 
 ### Visual Studio Code
+
 Download and install VS Code using the link below.
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -20,8 +21,6 @@ Download and install VS Code using the link below.
 # User Settings
 
 VS Code allows you to customize settings for all projects \(User Settings\) or for a single project \(Workspace settings\).  To modify default settings select **Code** \| **Preferences** for the Mac or **File** \| **Preferences** for Windows and then **Settings**.  You will see 2 files side by side.  On the left are the default settings and on the right are the User setting overrides.
-
-
 
 To change a default setting find the setting on the left and then copy it to the right with your desired setting.  For example, if you don't want to see the minimap on the right hand side of the application, you can make the following entry in the file on the right. Notice that options are key : value pairs and that they are commas separated.
 
@@ -31,10 +30,9 @@ To change a default setting find the setting on the left and then copy it to the
 
 `}`
 
-If you are using Windows and want to use "Git Bash" in for the VS Code terminal add the following to your User Settings:
+Make "Git Bash" the default command line in VS Code terminal by adding the following to your User Settings:
 
 `"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"`
-
 
 ### 
 
