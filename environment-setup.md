@@ -10,15 +10,25 @@ We'll use these tools in setting up the development environment.   The tools inc
 
 ### Python 3
 
-### 
+## Download and Install Git
 
-### Visual Studio Code
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+This will install a Folder with a number of file and programs.
+
+Open a bash window \( '`git bash`' on Windows\) and type in
+
+`git --version`
+
+This should return a confirmation that git is installed with a version number.
+
+## Visual Studio Code
 
 Download and install VS Code using the link below.
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-# User Settings
+#### User Settings
 
 VS Code allows you to customize settings for all projects \(User Settings\) or for a single project \(Workspace settings\).  To modify default settings select **Code** \| **Preferences** for the Mac or **File** \| **Preferences** for Windows and then **Settings**.  You will see 2 files side by side.  On the left are the default settings and on the right are the User setting overrides.
 
@@ -36,21 +46,9 @@ Make "Git Bash" the default command line in VS Code terminal by adding the follo
 
 ### Add a Python Plugin
 
-You can add a plugin by clicking on the lowest left icon and then search for and installing a plugin.  Install the "Python" extension by search for "Python" and then selecting and installing.
+You can add a plugin by clicking on the lowest left icon and then search for and installing a plugin.  Install the "Python" extension by search for "Python" and then selecting and installing.  This plug helps with code formatting.
 
 ![](/assets/python-plugin.png)
-
-## Download and Install Git
-
-[https://git-scm.com/downloads](https://git-scm.com/downloads)
-
-This will install a Folder with a number of file and programs.
-
-Open a bash window \(`terminal` on Mac or '`git bash`' on Windows\) and type in
-
-`git --version`
-
-This should return a confirmation that git is installed with a version number.
 
 ## 
 
