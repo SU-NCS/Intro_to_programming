@@ -4,7 +4,7 @@ description: A Python Course Developed and Maintained by SU-NCS
 
 # Introduction to Programming using Python 3
 
-Objectives:
+#### Objectives:
 
 Explain what a program is
 
@@ -26,5 +26,5 @@ Work with Different I/O methods: Console, Files, Internet
 
 Develop skill using the Python 3 Programming Language
 
-
+Work with Python Turtle to create a graphical user interface \(GUI\)
 
