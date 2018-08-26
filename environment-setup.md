@@ -56,5 +56,5 @@ You can add a plugin by clicking on the lowest left icon and then search for and
 
 ## repl.it
 
-There is no installation needed for repl.it as it is a cloud application.  This is a place to create and run python scripts.  It's also a good place to store them and it's free to join.  Navigate here on your browser: [https://repl.it/](https://repl.it/).  Each student can create their own account on repl.it and use it to upload scripts created in class.
+There is no installation needed for repl.it as it is a cloud application.  This is a place to create and run python scripts.  It's also a good place to store them and it's free to join.  Navigate here on your browser: [https://repl.it/](https://repl.it/).  Each student can create their own account on repl.it and use it to upload scripts created in class.  Code loaded on repl.it will be available for sharing on the web.
 
