@@ -19,6 +19,17 @@ We'll use these tools in setting up the development environment.   The tools inc
 ### 
 
 ## Git
+# Download and Install Git
+
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+This will install a Folder with a number of file and programs.
+
+Open a bash window \(`terminal` on Mac or '`git bash`' on Windows\) and type in
+
+`git --version`
+
+This should return a confirmation that git is installed with a version number.
 
 ## 
 
